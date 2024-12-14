@@ -50,15 +50,12 @@
             <div class="mainchart">
                 <div class="chart1">
                     <h3>Analytics</h3>
-                    <figure class="image-container">
-                        <img alt="" src="../assets/chart.png">
-                    </figure>
+                    <canvas id="analyticsChart"></canvas>
                 </div>
                 <div class="chart2">
                     <h3>2nd Chart</h3>
-                    <figure class="image-container2">
-                        <img alt="" src="../assets/chart2.png">
-                    </figure>
+                    <canvas id="secondaryChart"></canvas>
+                    
                 </div>
             </div>
             <div class="restofbody"></div>
@@ -67,11 +64,67 @@
   </template>
   
   <script>
+  import { Chart, registerables } from "chart.js";
   export default {
     name: 'DashBoard',
     props: {
       msg: String
-    }
+    },
+    mounted() {
+    // Register Chart.js components
+    Chart.register(...registerables);
+
+    // First Chart: Analytics
+    const ctx1 = document.getElementById("analyticsChart").getContext("2d");
+    new Chart(ctx1, {
+      type: "line",
+      data: {
+        labels: ["January", "February", "March", "April", "May", "June"],
+        datasets: [
+          {
+            label: "User Growth",
+            data: [12, 19, 3, 5, 2, 3],
+            borderColor: "#42b983",
+            tension: 0.4,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: {
+            position: "top",
+          },
+          tooltip: {
+            enabled: true,
+          },
+        },
+      },
+    });
+    // Second Chart: 2nd Chart
+    const ctx2 = document.getElementById("secondaryChart").getContext("2d");
+    new Chart(ctx2, {
+      type: "bar",
+      data: {
+        labels: ["A", "B", "C", "D", "E"],
+        datasets: [
+          {
+            label: "Category Count",
+            data: [5, 10, 15, 20, 25],
+            backgroundColor: "#0F123F",
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: {
+            position: "top",
+          },
+        },
+      },
+    });
+  },
   }
   </script>
   
@@ -156,9 +209,13 @@
     margin-top: 5px;
   }
 
+  .mainbody{
+    margin: 0 auto;
+  }
+
   .welcome{
     margin: 0 28px;
-    justify-self: start;
+    justify-self: center;
   }
   .someanalytics{
     display: flex;
@@ -174,7 +231,12 @@
     margin: 0 24px;
   }
 
-  
+  .chart1{
+    width: 100%;
+    
+    margin: 0 auto;
+  }
+
 
   .image-container{
     max-width: 100%;
