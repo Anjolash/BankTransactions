@@ -5,47 +5,283 @@
           <div class="top">
             <div class="logo">
               <!-- Placeholder for logo -->
-              <img src="../assets/logo.png" alt="Logo" />
+              <img src="../assets/newtemplate.svg" alt="Logo" />
+            </div>
+            <div class="middle">
+              <ul>
+                <li>
+                  <a href="#" class="nav_link">
+                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <g clip-path="url(#clip0_3588_13)">
+                        <path d="M4.09091 1.8212e-06C3.2818 1.8212e-06 2.49087 0.239929 1.81812 0.689444C1.14538 1.13896 0.621035 1.77787 0.311404 2.52539C0.00177253 3.2729 -0.0792411 4.09545 0.0786075 4.88901C0.236456 5.68257 0.626077 6.41149 1.1982 6.98362C1.77032 7.55574 2.49926 7.94536 3.29281 8.10321C4.08637 8.26106 4.90892 8.18005 5.65643 7.87042C6.40395 7.56079 7.04286 7.03644 7.49238 6.3637C7.94189 5.69095 8.18182 4.90002 8.18182 4.09091C8.18182 3.00593 7.75081 1.9654 6.98362 1.1982C6.21642 0.431007 5.17589 1.8212e-06 4.09091 1.8212e-06ZM4.09091 6.54545C3.60545 6.54545 3.13089 6.4015 2.72724 6.13179C2.32359 5.86208 2.00898 5.47873 1.82321 5.03022C1.63743 4.58171 1.58882 4.08819 1.68353 3.61205C1.77824 3.13592 2.01201 2.69856 2.35528 2.35528C2.69856 2.01201 3.13592 1.77824 3.61205 1.68353C4.08819 1.58882 4.58171 1.63743 5.03022 1.82321C5.47873 2.00898 5.86208 2.32359 6.13179 2.72724C6.4015 3.13089 6.54545 3.60545 6.54545 4.09091C6.54545 4.7419 6.28685 5.36622 5.82654 5.82654C5.36622 6.28685 4.7419 6.54545 4.09091 6.54545ZM13.9091 8.18182C14.7182 8.18182 15.5091 7.94189 16.1819 7.49238C16.8546 7.04286 17.379 6.40395 17.6886 5.65643C17.9982 4.90892 18.0792 4.08637 17.9214 3.29281C17.7635 2.49926 17.3739 1.77032 16.8018 1.1982C16.2297 0.626077 15.5007 0.236456 14.7072 0.0786075C13.9136 -0.0792411 13.0911 0.00177253 12.3436 0.311404C11.5961 0.621035 10.9571 1.14538 10.5076 1.81812C10.0581 2.49087 9.81818 3.2818 9.81818 4.09091C9.81818 5.17589 10.2492 6.21642 11.0164 6.98362C11.7836 7.75081 12.8241 8.18182 13.9091 8.18182ZM13.9091 1.63637C14.3946 1.63637 14.8691 1.78032 15.2728 2.05003C15.6764 2.31974 15.991 2.70309 16.1768 3.1516C16.3626 3.60011 16.4112 4.09363 16.3165 4.56977C16.2218 5.0459 15.988 5.48326 15.6447 5.82654C15.3014 6.16981 14.8641 6.40358 14.3879 6.49829C13.9118 6.593 13.4183 6.54439 12.9698 6.35861C12.5213 6.17284 12.1379 5.85823 11.8682 5.45458C11.5985 5.05093 11.4545 4.57637 11.4545 4.09091C11.4545 3.43992 11.7131 2.8156 12.1735 2.35528C12.6338 1.89497 13.2581 1.63637 13.9091 1.63637ZM4.09091 9.81818C3.2818 9.81818 2.49087 10.0581 1.81812 10.5076C1.14538 10.9571 0.621035 11.5961 0.311404 12.3436C0.00177253 13.0911 -0.0792411 13.9136 0.0786075 14.7072C0.236456 15.5007 0.626077 16.2297 1.1982 16.8018C1.77032 17.3739 2.49926 17.7635 3.29281 17.9214C4.08637 18.0792 4.90892 17.9982 5.65643 17.6886C6.40395 17.379 7.04286 16.8546 7.49238 16.1819C7.94189 15.5091 8.18182 14.7182 8.18182 13.9091C8.18182 12.8241 7.75081 11.7836 6.98362 11.0164C6.21642 10.2492 5.17589 9.81818 4.09091 9.81818ZM4.09091 16.3636C3.60545 16.3636 3.13089 16.2197 2.72724 15.95C2.32359 15.6803 2.00898 15.2969 1.82321 14.8484C1.63743 14.3999 1.58882 13.9064 1.68353 13.4302C1.77824 12.9541 2.01201 12.5167 2.35528 12.1735C2.69856 11.8302 3.13592 11.5964 3.61205 11.5017C4.08819 11.407 4.58171 11.4556 5.03022 11.6414C5.47873 11.8272 5.86208 12.1418 6.13179 12.5454C6.4015 12.9491 6.54545 13.4236 6.54545 13.9091C6.54545 14.5601 6.28685 15.1844 5.82654 15.6447C5.36622 16.105 4.7419 16.3636 4.09091 16.3636ZM13.9091 9.81818C13.1 9.81818 12.309 10.0581 11.6363 10.5076C10.9636 10.9571 10.4392 11.5961 10.1296 12.3436C9.81995 13.0911 9.73894 13.9136 9.89679 14.7072C10.0546 15.5007 10.4443 16.2297 11.0164 16.8018C11.5885 17.3739 12.3174 17.7635 13.111 17.9214C13.9046 18.0792 14.7271 17.9982 15.4746 17.6886C16.2221 17.379 16.861 16.8546 17.3106 16.1819C17.7601 15.5091 18 14.7182 18 13.9091C18 12.8241 17.569 11.7836 16.8018 11.0164C16.0346 10.2492 14.9941 9.81818 13.9091 9.81818ZM13.9091 16.3636C13.4236 16.3636 12.9491 16.2197 12.5454 15.95C12.1418 15.6803 11.8272 15.2969 11.6414 14.8484C11.4556 14.3999 11.407 13.9064 11.5017 13.4302C11.5964 12.9541 11.8302 12.5167 12.1735 12.1735C12.5167 11.8302 12.9541 11.5964 13.4302 11.5017C13.9064 11.407 14.3999 11.4556 14.8484 11.6414C15.2969 11.8272 15.6803 12.1418 15.95 12.5454C16.2197 12.9491 16.3636 13.4236 16.3636 13.9091C16.3636 14.5601 16.105 15.1844 15.6447 15.6447C15.1844 16.105 14.5601 16.3636 13.9091 16.3636Z" fill="currentColor"/>
+                      </g>
+                      <defs>
+                        <clipPath id="clip0_3588_13">
+                          <rect width="18" height="18" fill="white"/>
+                        </clipPath>
+                      </defs>
+                    </svg>
+                    <span>Dashboard</span>         
+                  </a>
+                </li>
+                <li>
+                  <a href="#" class="nav_link">
+                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <g clip-path="url(#clip0_3598_52)">
+                        <path d="M7.94255 13.3302C8.01862 13.4062 8.07897 13.4964 8.12014 13.5957C8.16131 13.6951 8.1825 13.8015 8.1825 13.909C8.1825 14.0165 8.16131 14.123 8.12014 14.2223C8.07897 14.3217 8.01862 14.4119 7.94255 14.4879L4.66999 17.7604C4.59401 17.8365 4.50378 17.8968 4.40446 17.938C4.30514 17.9792 4.19867 18.0004 4.09116 18.0004C3.98364 18.0004 3.87718 17.9792 3.77786 17.938C3.67854 17.8968 3.58831 17.8365 3.51232 17.7604L0.239761 14.4879C0.163747 14.4119 0.10345 14.3216 0.0623119 14.2223C0.0211736 14.123 0 14.0165 0 13.909C0 13.8015 0.0211736 13.6951 0.0623119 13.5958C0.10345 13.4964 0.163747 13.4062 0.239761 13.3302C0.393277 13.1767 0.60149 13.0904 0.818595 13.0904C0.926095 13.0904 1.03254 13.1116 1.13186 13.1527C1.23117 13.1939 1.32142 13.2542 1.39743 13.3302L3.27302 15.2068V0.818784C3.27302 0.6018 3.35921 0.393703 3.51264 0.240272C3.66608 0.0868405 3.87417 0.000643698 4.09116 0.000643698C4.30814 0.000643698 4.51624 0.0868405 4.66967 0.240272C4.8231 0.393703 4.9093 0.6018 4.9093 0.818784V15.2068L6.78488 13.3302C6.86087 13.2541 6.9511 13.1938 7.05042 13.1526C7.14974 13.1114 7.2562 13.0902 7.36372 13.0902C7.47123 13.0902 7.5777 13.1114 7.67702 13.1526C7.77634 13.1938 7.86657 13.2541 7.94255 13.3302ZM17.7602 3.51251L14.4877 0.23995C14.4117 0.163882 14.3215 0.103537 14.2221 0.0623645C14.1228 0.0211922 14.0164 0 13.9088 0C13.8013 0 13.6949 0.0211922 13.5955 0.0623645C13.4962 0.103537 13.406 0.163882 13.33 0.23995L10.0574 3.51251C9.90393 3.66603 9.81768 3.87424 9.81768 4.09135C9.81768 4.30845 9.90393 4.51666 10.0574 4.67018C10.211 4.8237 10.4192 4.90994 10.6363 4.90994C10.8534 4.90994 11.0616 4.8237 11.2151 4.67018L13.0907 2.79357V17.1816C13.0907 17.3986 13.1769 17.6067 13.3303 17.7601C13.4838 17.9135 13.6919 17.9997 13.9088 17.9997C14.1258 17.9997 14.3339 17.9135 14.4874 17.7601C14.6408 17.6067 14.727 17.3986 14.727 17.1816V2.79357L16.6026 4.67018C16.7561 4.8237 16.9643 4.90994 17.1814 4.90994C17.3985 4.90994 17.6067 4.8237 17.7602 4.67018C17.9138 4.51666 18 4.30845 18 4.09135C18 3.87424 17.9138 3.66603 17.7602 3.51251Z" fill="currentColor"/>
+                      </g>
+                      <defs>
+                        <clipPath id="clip0_3598_52">
+                          <rect width="18" height="18.0004" fill="white"/>
+                        </clipPath>
+                      </defs>
+                    </svg>
+                    <span>Transactions</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#" class="nav_link">
+                    <svg width="18" height="13" viewBox="0 0 18 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <g clip-path="url(#clip0_3603_58)">
+                        <path d="M16.7143 0H1.28571C0.944722 0 0.617695 0.135459 0.376577 0.376577C0.135459 0.617695 0 0.944722 0 1.28571V11.5714C0 11.9124 0.135459 12.2394 0.376577 12.4806C0.617695 12.7217 0.944722 12.8571 1.28571 12.8571H16.7143C17.0553 12.8571 17.3823 12.7217 17.6234 12.4806C17.8645 12.2394 18 11.9124 18 11.5714V1.28571C18 0.944722 17.8645 0.617695 17.6234 0.376577C17.3823 0.135459 17.0553 0 16.7143 0ZM16.7143 1.28571V3.21429H1.28571V1.28571H16.7143ZM16.7143 11.5714H1.28571V4.5H16.7143V11.5714ZM15.4286 9.64286C15.4286 9.81335 15.3608 9.97687 15.2403 10.0974C15.1197 10.218 14.9562 10.2857 14.7857 10.2857H12.2143C12.0438 10.2857 11.8803 10.218 11.7597 10.0974C11.6392 9.97687 11.5714 9.81335 11.5714 9.64286C11.5714 9.47236 11.6392 9.30885 11.7597 9.18829C11.8803 9.06773 12.0438 9 12.2143 9H14.7857C14.9562 9 15.1197 9.06773 15.2403 9.18829C15.3608 9.30885 15.4286 9.47236 15.4286 9.64286ZM10.2857 9.64286C10.2857 9.81335 10.218 9.97687 10.0974 10.0974C9.97687 10.218 9.81335 10.2857 9.64286 10.2857H8.35714C8.18665 10.2857 8.02313 10.218 7.90257 10.0974C7.78202 9.97687 7.71429 9.81335 7.71429 9.64286C7.71429 9.47236 7.78202 9.30885 7.90257 9.18829C8.02313 9.06773 8.18665 9 8.35714 9H9.64286C9.81335 9 9.97687 9.06773 10.0974 9.18829C10.218 9.30885 10.2857 9.47236 10.2857 9.64286Z" fill="currentColor"/>
+                      </g>
+                      <defs>
+                        <clipPath id="clip0_3603_58">
+                          <rect width="18" height="12.8571" fill="white"/>
+                        </clipPath>
+                      </defs>
+                    </svg>
+                    <span>Cards</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#" class="nav_link">
+                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <g clip-path="url(#clip0_3603_60)">
+                        <path d="M17.3077 14.5385H16.6154V0.692308C16.6154 0.508696 16.5424 0.332605 16.4126 0.202772C16.2828 0.0729395 16.1067 0 15.9231 0H11.0769C10.8933 0 10.7172 0.0729395 10.5874 0.202772C10.4576 0.332605 10.3846 0.508696 10.3846 0.692308V4.15385H6.23077C6.04716 4.15385 5.87107 4.22679 5.74123 4.35662C5.6114 4.48645 5.53846 4.66254 5.53846 4.84615V8.30769H2.07692C1.89331 8.30769 1.71722 8.38063 1.58739 8.51046C1.45755 8.6403 1.38462 8.81639 1.38462 9V14.5385H0.692308C0.508696 14.5385 0.332605 14.6114 0.202772 14.7412C0.0729393 14.8711 0 15.0472 0 15.2308C0 15.4144 0.0729393 15.5905 0.202772 15.7203C0.332605 15.8501 0.508696 15.9231 0.692308 15.9231H17.3077C17.4913 15.9231 17.6674 15.8501 17.7972 15.7203C17.9271 15.5905 18 15.4144 18 15.2308C18 15.0472 17.9271 14.8711 17.7972 14.7412C17.6674 14.6114 17.4913 14.5385 17.3077 14.5385ZM11.7692 1.38462H15.2308V14.5385H11.7692V1.38462ZM6.92308 5.53846H10.3846V14.5385H6.92308V5.53846ZM2.76923 9.69231H5.53846V14.5385H2.76923V9.69231Z" fill="currentColor"/>
+                      </g>
+                        <defs>
+                        <clipPath id="clip0_3603_60">
+                          <rect width="18" height="15.9231" fill="white"/>
+                        </clipPath>
+                      </defs>
+                    </svg>
+                    <span>Reports</span> 
+                  </a>
+                </li>
+              </ul>
             </div>
           </div>
-  
           <!-- Middle Section -->
-          <div class="middle">
-            <ul>
-              <li><a href="#">Dashboard</a></li>
-              <li><a href="#">Reports</a></li>
-              <li><a href="#">Analytics</a></li>
-              <li><a href="#">Settings</a></li>
-            </ul>
-          </div>
+          
   
           <!-- Bottom Section -->
           <div class="bottom">
-            <p>Need Help?</p>
-            <a href="#">Contact Support</a>
+            <a href="" class="nav_link">
+              <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g clip-path="url(#clip0_3603_62)">
+                  <path d="M9.00046 5.14331C8.23758 5.14331 7.49185 5.36953 6.85754 5.79336C6.22324 6.21719 5.72886 6.81959 5.43692 7.52439C5.14498 8.22919 5.0686 9.00473 5.21743 9.75295C5.36626 10.5012 5.73361 11.1884 6.27304 11.7279C6.81247 12.2673 7.49975 12.6347 8.24796 12.7835C8.99618 12.9323 9.77172 12.8559 10.4765 12.564C11.1813 12.2721 11.7837 11.7777 12.2076 11.1434C12.6314 10.5091 12.8576 9.76333 12.8576 9.00046C12.8565 7.9778 12.4498 6.99734 11.7267 6.27422C11.0036 5.55109 10.0231 5.14438 9.00046 5.14331ZM9.00046 11.5719C8.49187 11.5719 7.99472 11.4211 7.57185 11.1385C7.14898 10.856 6.81939 10.4544 6.62476 9.9845C6.43014 9.51463 6.37922 8.9976 6.47844 8.49879C6.57765 7.99999 6.82256 7.5418 7.18218 7.18218C7.5418 6.82256 7.99999 6.57765 8.49879 6.47844C8.9976 6.37922 9.51463 6.43014 9.9845 6.62476C10.4544 6.81939 10.856 7.14898 11.1385 7.57185C11.4211 7.99472 11.5719 8.49187 11.5719 9.00046C11.5719 9.68244 11.301 10.3365 10.8187 10.8187C10.3365 11.301 9.68244 11.5719 9.00046 11.5719ZM16.0719 9.17403C16.0751 9.05831 16.0751 8.9426 16.0719 8.82688L17.2708 7.32903C17.3337 7.25038 17.3772 7.15807 17.3978 7.05953C17.4185 6.96099 17.4157 6.85898 17.3897 6.76171C17.1932 6.0229 16.8992 5.31355 16.5155 4.65233C16.4652 4.5658 16.3955 4.49219 16.3118 4.43737C16.2281 4.38254 16.1327 4.34801 16.0333 4.33653L14.1272 4.12438C14.048 4.04081 13.9676 3.96046 13.8862 3.88331L13.6612 1.97242C13.6496 1.87295 13.6149 1.77755 13.56 1.69385C13.505 1.61014 13.4312 1.54043 13.3446 1.49028C12.6831 1.10725 11.9738 0.813536 11.2352 0.616794C11.1379 0.590917 11.0358 0.58827 10.9373 0.609068C10.8387 0.629865 10.7464 0.673524 10.6679 0.736527L9.17403 1.92903C9.05831 1.92903 8.9426 1.92903 8.82688 1.92903L7.32903 0.732509C7.25038 0.669644 7.15807 0.62613 7.05953 0.605473C6.96099 0.584816 6.85898 0.587593 6.76171 0.61358C6.02302 0.810477 5.31371 1.10447 4.65233 1.48787C4.5658 1.53811 4.49219 1.60786 4.43737 1.69156C4.38254 1.77527 4.34801 1.87061 4.33653 1.97001L4.12438 3.87929C4.04081 3.95912 3.96046 4.03947 3.88331 4.12037L1.97242 4.33974C1.87295 4.35131 1.77755 4.38597 1.69385 4.44093C1.61014 4.4959 1.54043 4.56967 1.49028 4.65635C1.10725 5.31782 0.813536 6.02711 0.616794 6.76572C0.590917 6.86306 0.58827 6.96511 0.609068 7.06365C0.629865 7.16219 0.673524 7.25447 0.736527 7.33304L1.92903 8.82688C1.92903 8.9426 1.92903 9.05831 1.92903 9.17403L0.732509 10.6719C0.669644 10.7505 0.62613 10.8428 0.605473 10.9414C0.584816 11.0399 0.587593 11.1419 0.61358 11.2392C0.810125 11.978 1.10414 12.6874 1.48787 13.3486C1.53811 13.4351 1.60786 13.5087 1.69156 13.5635C1.77527 13.6184 1.87061 13.6529 1.97001 13.6644L3.87608 13.8765C3.9559 13.9601 4.03626 14.0405 4.11715 14.1176L4.33974 16.0285C4.35131 16.128 4.38597 16.2234 4.44093 16.3071C4.4959 16.3908 4.56967 16.4605 4.65635 16.5106C5.31782 16.8937 6.02711 17.1874 6.76572 17.3841C6.86306 17.41 6.96511 17.4126 7.06365 17.3918C7.16219 17.371 7.25447 17.3274 7.33304 17.2644L8.82688 16.0719C8.9426 16.0751 9.05831 16.0751 9.17403 16.0719L10.6719 17.2708C10.7505 17.3337 10.8428 17.3772 10.9414 17.3978C11.0399 17.4185 11.1419 17.4157 11.2392 17.3897C11.978 17.1932 12.6874 16.8992 13.3486 16.5155C13.4351 16.4652 13.5087 16.3955 13.5635 16.3118C13.6184 16.2281 13.6529 16.1327 13.6644 16.0333L13.8765 14.1272C13.9601 14.048 14.0405 13.9676 14.1176 13.8862L16.0285 13.6612C16.128 13.6496 16.2234 13.6149 16.3071 13.56C16.3908 13.505 16.4605 13.4312 16.5106 13.3446C16.8937 12.6831 17.1874 11.9738 17.3841 11.2352C17.41 11.1379 17.4126 11.0358 17.3918 10.9373C17.371 10.8387 17.3274 10.7464 17.2644 10.6679L16.0719 9.17403ZM14.7781 8.65171C14.7918 8.884 14.7918 9.11691 14.7781 9.3492C14.7686 9.50825 14.8184 9.66518 14.918 9.78956L16.0582 11.2143C15.9274 11.6301 15.7598 12.0335 15.5576 12.4197L13.7415 12.6254C13.5834 12.6429 13.4373 12.7185 13.3317 12.8375C13.177 13.0115 13.0123 13.1762 12.8383 13.3309C12.7193 13.4365 12.6437 13.5826 12.6262 13.7407L12.4245 15.5552C12.0384 15.7575 11.635 15.9251 11.2191 16.0558L9.79358 14.9155C9.67951 14.8244 9.53781 14.7748 9.39179 14.7749H9.35322C9.12092 14.7886 8.88802 14.7886 8.65572 14.7749C8.49668 14.7653 8.33975 14.8152 8.21537 14.9147L6.78662 16.0558C6.37079 15.925 5.96742 15.7574 5.58126 15.5552L5.37554 13.7415C5.35799 13.5834 5.2824 13.4373 5.1634 13.3317C4.98944 13.177 4.82469 13.0123 4.67001 12.8383C4.56437 12.7193 4.41834 12.6437 4.26019 12.6262L2.44572 12.4237C2.24338 12.0376 2.07584 11.6342 1.9451 11.2183L3.08537 9.79278C3.18493 9.66839 3.23476 9.51146 3.22519 9.35242C3.21153 9.12012 3.21153 8.88722 3.22519 8.65492C3.23476 8.49588 3.18493 8.33895 3.08537 8.21456L1.9451 6.78662C2.07594 6.37079 2.24347 5.96742 2.44572 5.58126L4.25938 5.37554C4.41754 5.35799 4.56356 5.2824 4.66921 5.1634C4.82388 4.98944 4.98863 4.82469 5.1626 4.67001C5.28207 4.5643 5.35797 4.41794 5.37554 4.25938L5.57724 2.44572C5.96336 2.24338 6.36674 2.07584 6.7826 1.9451L8.20813 3.08537C8.33252 3.18493 8.48945 3.23476 8.64849 3.22519C8.88079 3.21153 9.11369 3.21153 9.34599 3.22519C9.50503 3.23476 9.66196 3.18493 9.78635 3.08537L11.2143 1.9451C11.6301 2.07594 12.0335 2.24347 12.4197 2.44572L12.6254 4.25938C12.6429 4.41754 12.7185 4.56356 12.8375 4.66921C13.0115 4.82388 13.1762 4.98863 13.3309 5.1626C13.4365 5.2816 13.5826 5.35719 13.7407 5.37474L15.5552 5.57644C15.7575 5.96256 15.9251 6.36594 16.0558 6.78179L14.9155 8.20733C14.815 8.33276 14.7651 8.49131 14.7757 8.65171H14.7781Z" fill="currentColor"/>
+                </g>
+                <defs>
+                  <clipPath id="clip0_3603_62">
+                    <rect width="18" height="18" fill="white"/>
+                  </clipPath>
+                </defs>
+              </svg><span>Settings</span></a>
+            <a href="#" class="nav_link">Contact Support</a>
           </div>
         </div>
         <div class="mainbody">
             <div class="welcome">
-                <h2>Welcome back</h2>
+                <h2>Cards</h2>
+                <input type="search" name="find" id="searchbar" placeholder="Type a serach">
+
+                <a href="" class="top-link">
+                  <img src="../assets/bell.svg" alt="">
+                </a>
+                <button id="addnew">
+                  <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <g clip-path="url(#clip0_3590_30)">
+                      <path d="M14 7C14 7.15471 13.9385 7.30308 13.8291 7.41248C13.7197 7.52188 13.5714 7.58333 13.4167 7.58333H7.58333V13.4167C7.58333 13.5714 7.52188 13.7197 7.41248 13.8291C7.30308 13.9385 7.15471 14 7 14C6.84529 14 6.69692 13.9385 6.58752 13.8291C6.47812 13.7197 6.41667 13.5714 6.41667 13.4167V7.58333H0.583333C0.428624 7.58333 0.280251 7.52188 0.170854 7.41248C0.0614583 7.30308 0 7.15471 0 7C0 6.84529 0.0614583 6.69692 0.170854 6.58752C0.280251 6.47812 0.428624 6.41667 0.583333 6.41667H6.41667V0.583333C6.41667 0.428624 6.47812 0.280251 6.58752 0.170854C6.69692 0.0614583 6.84529 0 7 0C7.15471 0 7.30308 0.0614583 7.41248 0.170854C7.52188 0.280251 7.58333 0.428624 7.58333 0.583333V6.41667H13.4167C13.5714 6.41667 13.7197 6.47812 13.8291 6.58752C13.9385 6.69692 14 6.84529 14 7Z" fill="currentColor"/>
+                    </g>
+                    <defs>
+                      <clipPath id="clip0_3590_30">
+                        <rect width="14" height="14" fill="white"/>
+                      </clipPath>
+                    </defs>
+                  </svg>
+                  <span>Add a new card</span>
+                </button>
+            </div>
+            <div class="tabs-menu">
+              <a href="#"><span>All cards</span> </a>
+              <a href="#"><span>Virtual</span> </a>
+              <a href="#"><span>Credit</span></a>
             </div>
             <div class="someanalytics">
                 <div class="analyticcard">
+                  <div class="card-top">
+                    <img src="../assets/visa.svg" alt="">
+                  </div>
                     <h3>89,935</h3>
-                    <span>Total Users</span>
+                    <span><b>Template </b>Premium Card</span>
                 </div>
                 <div class="analyticcard">
+                  <div class="card-top">
+                    <img src="../assets/visa.svg" alt="">
+                  </div>
                     <h3>89,935</h3>
-                    <span>Total Users</span>
+                    <span><b>Template </b>Premium Card</span>
                 </div>
                 <div class="analyticcard">
+                  <div class="card-top">
+                    <img src="../assets/visa.svg" alt="">
+                  </div>
                     <h3>89,935</h3>
-                    <span>Total Users</span>
+                    <span><b>Template </b>Premium Card</span>
                 </div>
                 <div class="analyticcard">
+                  <div class="card-top">
+                    <img src="../assets/visa.svg" alt="">
+                  </div>
                     <h3>89,935</h3>
-                    <span>Total Users</span>
+                    <span><b>Template </b>Premium Card</span>
                 </div>
+            </div>
+            <div class="card-transactions">
+              <div class="table1">
+                <div class="box">
+                  <h2>Card Management</h2>
+                  <img src="../assets/up.svg" alt="">
+                </div>
+                <div class="box">
+                  <span>Card Details</span>
+                  <img src="../assets/details.svg" alt="">
+                </div>
+                <div class="box">
+                  <span>Download Statement</span>
+                  <img src="../assets/download.svg" alt="">
+                </div>
+                <div class="box">
+                  <span>Change Pin</span>
+                  <img src="../assets/pin.svg" alt="">
+                </div>
+                <div class="box">
+                  <span>Block Card</span>
+                  <img src="../assets/card.svg" alt="">
+                </div>
+                <div class="final-box">
+                  <h3 class="grey">ATM Withdrawals</h3>
+                  <h2>$6,900.00</h2>
+                  <div class="progress-container">
+                    <div class="progress-bar" style="width: 50%;"></div>
+                  </div>
+                  <div class="progressbar-tex">
+                    <p class="bigger">$5,400.00</p>
+                    <p class="bigger">$4,600.00</p>
+                  </div>
+                  <div class="progressbar-tex">
+                    <p>Spent</p>
+                    <p>Left</p>
+                  </div>
+                </div>
+              </div>
+              <div class="table2">
+                <div class="box">
+                  <h2>Latest Transactions</h2>
+                  <img src="../assets/up.svg" alt="">
+                </div>
+                <div class="box2a">
+                  <p>Recent</p>
+                  <div class="recenttransactionbox">
+                    <div class="icon-container">
+                      <img src="../assets/blackarrows.svg" alt="">
+                    </div>
+                    <div class="transactiondetailscontainer">
+                      <div class="transactiondetailswords">
+                        <span>Buy online at Walmart</span>
+                        <span class="lowkey">29 June 2:15 PM</span>
+                      </div>
+                      <div class="transactiondetailsamount">
+                        $8,534.00
+                      </div>
+                    </div>
+                  </div>
+                  <div class="recenttransactionbox">
+                    <div class="icon-container">
+                      <img src="../assets/blackarrows.svg" alt="">
+                    </div>
+                    <div class="transactiondetailscontainer">
+                      <div class="transactiondetailswords">
+                        <span>Buy online at Walmart</span>
+                        <span class="lowkey">29 June 2:15 PM</span>
+                      </div>
+                      <div class="transactiondetailsamount">
+                        $8,534.00
+                      </div>
+                    </div>
+                  </div>
+                  <div class="recenttransactionbox">
+                    <div class="icon-container">
+                      <img src="../assets/blackarrows.svg" alt="">
+                    </div>
+                    <div class="transactiondetailscontainer">
+                      <div class="transactiondetailswords">
+                        <span>Buy online at Walmart</span>
+                        <span class="lowkey">29 June 2:15 PM</span>
+                      </div>
+                      <div class="transactiondetailsamount">
+                        $8,534.00
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="box2a">
+                  <p>Last 7 Days</p>
+                  <div class="recenttransactionbox">
+                    <div class="icon-container">
+                      <img src="../assets/blackarrows.svg" alt="">
+                    </div>
+                    <div class="transactiondetailscontainer">
+                      <div class="transactiondetailswords">
+                        <span>Buy online at Walmart</span>
+                        <span class="lowkey">29 June 2:15 PM</span>
+                      </div>
+                      <div class="transactiondetailsamount">
+                        $8,534.00
+                      </div>
+                    </div>
+                  </div>
+                  <div class="recenttransactionbox">
+                    <div class="icon-container">
+                      <img src="../assets/blackarrows.svg" alt="">
+                    </div>
+                    <div class="transactiondetailscontainer">
+                      <div class="transactiondetailswords">
+                        <span>Buy online at Walmart</span>
+                        <span class="lowkey">29 June 2:15 PM</span>
+                      </div>
+                      <div class="transactiondetailsamount">
+                        $8,534.00
+                      </div>
+                    </div>
+                  </div>
+                  <div class="recenttransactionbox">
+                    <div class="icon-container">
+                      <img src="../assets/blackarrows.svg" alt="">
+                    </div>
+                    <div class="transactiondetailscontainer">
+                      <div class="transactiondetailswords">
+                        <span>Buy online at Walmart</span>
+                        <span class="lowkey">29 June 2:15 PM</span>
+                      </div>
+                      <div class="transactiondetailsamount">
+                        $8,534.00
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
             <div class="mainchart">
                 <div class="chart1">
@@ -135,7 +371,10 @@
   }
   /* Sidebar Styling */
   .sidebar {
-    background-color: #0F123F;
+    position: sticky;
+    top: 0;
+    margin: 0;
+    background-color: #183028;
     color: white;
     width: 250px;
     height: 100vh;
@@ -151,9 +390,17 @@
   .top {
     flex: 1;
     display: flex;
+    height: 50vh;
+    flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     margin-bottom: 20px;
+  }
+
+  .logo{
+    margin-top: 40px;
+    margin-bottom: 60px;
+    width: 100px;
   }
   
   .logo img {
@@ -173,15 +420,23 @@
   }
   
   .middle li {
-    margin: 15px 0;
+    padding: 0 15px;
+    padding: 10px;
+    height: 50px;
   }
-  
-  .middle a {
+
+  .nav_link{
     color: white;
     text-decoration: none;
     font-size: 16px;
     font-weight: bold;
     transition: color 0.3s ease;
+    display: flex;
+    gap: 15px;
+  }
+  
+  .middle a {
+    
   }
   
   .middle a:hover {
@@ -210,25 +465,243 @@
   }
 
   .mainbody{
-    margin: 0 auto;
+    
+  }
+
+  .mainbody h2{
+    font-size: 35px;
+    color: #00160d;
+    font-weight: 500;
+
   }
 
   .welcome{
     margin: 0 28px;
-    justify-self: center;
+    padding: 30px 30px 60px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  #searchbar{
+    padding-left: 40px;
+    height: 45px;
+    font-size: 16px;
+    color: #00160d;
+    border-radius: 10px;    
+    border: solid #e6e8e7 1px;
+    background: url('../assets/search.svg') no-repeat 10px center;
+    width: 100%;
+    max-width: 600px;
+  }
+
+  #addnew{
+    padding: 15px;
+    height: 45px;
+    display: flex;
+    background-color: #183028;
+    border-radius: 10px;
+    font-size: 16px;
+    color: #ffffff;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+
+  }
+
+  .top-link{
+    width: 45px;
+    height: 45px;
+    
+    border-radius: 10px;
+    border: solid  #e6e8e7 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   .someanalytics{
     display: flex;
     margin: 0 auto;
+    margin-bottom: 30px;
+    padding: 0 30px;
     justify-content: center;
   }
 
   .analyticcard{
+    display: flex;
+    flex-direction: column;
+    color: #00160d;
+    background-color: #e6e8e7;
     border: solid 1px #e6edff;
-    width: 120px;
+    width: 215px;
+    min-height: 215px;
     padding: 20px;
     border-radius: 12px;
     margin: 0 24px;
+    justify-content: space-between;
+  }
+
+  .tabs-menu{
+    display: flex;
+    padding-left: 30px;
+    margin-bottom: 20px;
+    color: #00160d;
+    font-size: 16px;
+    border-bottom: solid 1px #e6e8e7;
+  }
+
+  .tabs-menu a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    justify-content: center;
+    padding: 9px 10px;
+    position: relative;
+    size: 16px;
+    color: rgba(24, 48, 40, 0.45);
+    background-color: transparent;
+  }
+
+  .card-top{
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    align-self: flex-end;
+    text-align: right;
+    justify-content: end;
+  }
+  .card-top img{
+    align-self: flex-end;
+  }
+
+  .card-transactions{
+    display: flex;
+    align-items: stretch;
+    margin: 0px 30px 30px 30px;
+    gap: 20px;
+  }
+
+  .final-box{
+    padding: 40px 20px 30px 20px;
+    text-align: left;
+    justify-content: start;
+  }
+
+  .grey{
+    color: #6e887b;
+  }
+
+  .progress-container {
+  width: 100%;
+  height: 2px;
+  background-color: #e6e8e7; 
+  border-radius: 4px; 
+  overflow: hidden; 
+  margin-bottom: 10px;
+}
+
+.progress-bar {
+  height: 100%;
+  background-color: #ff5017;
+  width: 0%; 
+  transition: width 0.3s ease-in-out;
+  
+}
+
+.progressbar-tex{
+  display: flex;
+  
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  color: #6e887b;
+  height: 28px;
+  
+}
+
+.bigger{
+  font-weight: 500;
+  color: #183028;
+  font-size: 16px;
+}
+
+
+  .transactiondetailscontainer{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    text-align: left;
+  
+  }
+
+  .transactiondetailswords{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    font-size: 16px;
+    font-weight: 600;
+    color: #00160d;
+  }
+
+  .lowkey{
+    margin-top: 6px;
+    color: #6e887b;
+    font-size: 12px;
+  }
+
+
+
+  .transactiondetailsamount{
+    justify-content: end;
+    text-align: end;
+  }
+
+  .table1{
+    position: relative;
+    width: 100%;
+    border-radius: 10px;
+    border: solid 1px #e6e8e7;
+  }
+  .table2{
+    width: 100%;
+  }
+
+  .box{
+    display: flex;
+    width: auto;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-weight: 600;
+    color: #183028;
+    border-bottom: solid 1px #e6e8e7;
+  }
+
+  .box img{
+    width: 20px;
+  }
+
+  .recenttransactionbox{
+    display: flex;
+    width: auto;
+    gap: 10px;
+    align-items: center;
+    padding: 20px;
+    font-weight: 600;
+    color: #183028;
+    border-bottom: solid 1px #e6e8e7;
+  }
+
+  .icon-container{
+    background-color: #c5e86c;
+    padding: 10px 10px;
+    border-radius: 50%;
+  }
+
+  .box2a{
+    padding: 10px 15px;
+
   }
 
   .chart1{
