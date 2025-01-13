@@ -49,7 +49,7 @@ def get_recent_transactions(user_id):
     limit = int(request.args.get("limit", 3))
 
     # Filter and sort transactions by date for the user
-    user_data = data[data["User ID"] == user_id].sort_values(by="Date", ascending=False)
+    user_data = data[data["User ID"] == user_id].sort_values(by="Transaction Date", ascending=False)
 
     # Check if the user has any transactions
     if user_data.empty:

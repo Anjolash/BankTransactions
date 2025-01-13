@@ -200,7 +200,7 @@
                     <div v-for="(transaction, index) in displayedTransactions" :key="index" class="transactiondetailscontainer">
                       <div class="transactiondetailswords">
                         <span>Buy online at {{ transaction.Merchant || "Unknown" }}</span>
-                        <span class="lowkey">{{ formatDate(transaction.Date) }}</span>
+                        <span class="lowkey">{{ formatDate(transaction["Transaction Date"]) }}</span>
                       </div>
                       <div class="transactiondetailsamount">
                         $8,534.00
