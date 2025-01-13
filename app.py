@@ -1,11 +1,14 @@
 from flask import Flask, jsonify, request
 import pandas as pd
+import numpy as np
 
 app = Flask(__name__)
 
 # Load the merged dataset
 MERGED_CSV_FILE = "merged_transactions_with_fullnames.csv"
 data = pd.read_csv(MERGED_CSV_FILE)
+
+data = data.replace({np.nan: None})
 
 # Endpoint to fetch all transactions grouped by User ID
 @app.route("/api/users/transactions", methods=["GET"])

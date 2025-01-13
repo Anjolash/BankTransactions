@@ -194,18 +194,38 @@
                 <div class="box2a">
                   <p>Recent</p>
                   <div class="recenttransactionbox">
-                    <div class="icon-container">
-                      <img src="../assets/blackarrows.svg" alt="">
+                    <div 
+                      v-if="isLoading" 
+                      class="loading-container">
+                      Loading transactions...
                     </div>
-                    <div v-for="(transaction, index) in displayedTransactions" :key="index" class="transactiondetailscontainer">
-                      <div class="transactiondetailswords">
-                        <span>Buy online at {{ transaction.Merchant || "Unknown" }}</span>
-                        <span class="lowkey">{{ formatDate(transaction["Transaction Date"]) }}</span>
-                      </div>
-                      <div class="transactiondetailsamount">
-                        $8,534.00
-                      </div>
+                    <div 
+                      v-else-if="error" 
+                      class="error-container">
+                      {{ error }}
                     </div>
+                    <div 
+                      v-else 
+                      class="transactions-container">
+                      <div
+                        v-for="(transaction, index) in displayedTransactions"
+                        :key="index"
+                        class="transactiondetailscontainer"
+                      >
+                        <div class="icon-container">
+                          <img src="../assets/blackarrows.svg" alt="">
+                        </div>
+                        <div v-for="(transaction, index) in displayedTransactions" :key="index" class="transactiondetailscontainer">
+                          <div class="transactiondetailswords">
+                            <span>Buy online at {{ transaction.Merchant || "Unknown" }}</span>
+                            <span class="lowkey">{{ formatDate(transaction["Transaction"]) }}</span>
+                          </div>
+                          <div class="transactiondetailsamount">
+                            $8,534.00
+                          </div>
+                        </div>
+                      </div>
+                    </div>    
                   </div>
                   <div class="recenttransactionbox">
                     <div class="icon-container">
