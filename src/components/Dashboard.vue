@@ -197,10 +197,10 @@
                     <div class="icon-container">
                       <img src="../assets/blackarrows.svg" alt="">
                     </div>
-                    <div class="transactiondetailscontainer">
+                    <div v-for="(transaction, index) in displayedTransactions" :key="index" class="transactiondetailscontainer">
                       <div class="transactiondetailswords">
-                        <span>Buy online at Walmart</span>
-                        <span class="lowkey">29 June 2:15 PM</span>
+                        <span>Buy online at {{ transaction.Merchant || "Unknown" }}</span>
+                        <span class="lowkey">{{ formatDate(transaction.Date) }}</span>
                       </div>
                       <div class="transactiondetailsamount">
                         $8,534.00
@@ -300,69 +300,120 @@
   </template>
   
   <script>
-  import { Chart, registerables } from "chart.js";
-  export default {
-    name: 'DashBoard',
-    props: {
-      msg: String
-    },
-    mounted() {
-    // Register Chart.js components
-    Chart.register(...registerables);
+import { Chart, registerables } from "chart.js";
 
-    // First Chart: Analytics
-    const ctx1 = document.getElementById("analyticsChart").getContext("2d");
-    new Chart(ctx1, {
-      type: "line",
-      data: {
-        labels: ["January", "February", "March", "April", "May", "June"],
-        datasets: [
-          {
-            label: "User Growth",
-            data: [12, 19, 3, 5, 2, 3],
-            borderColor: "#42b983",
-            tension: 0.4,
-          },
-        ],
-      },
-      options: {
-        responsive: true,
-        plugins: {
-          legend: {
-            position: "top",
-          },
-          tooltip: {
-            enabled: true,
-          },
-        },
-      },
-    });
-    // Second Chart: 2nd Chart
-    const ctx2 = document.getElementById("secondaryChart").getContext("2d");
-    new Chart(ctx2, {
-      type: "bar",
-      data: {
-        labels: ["A", "B", "C", "D", "E"],
-        datasets: [
-          {
-            label: "Category Count",
-            data: [5, 10, 15, 20, 25],
-            backgroundColor: "#0F123F",
-          },
-        ],
-      },
-      options: {
-        responsive: true,
-        plugins: {
-          legend: {
-            position: "top",
-          },
-        },
-      },
-    });
+export default {
+  name: "DashBoard",
+  props: {
+    msg: String,
   },
-  }
-  </script>
+  data() {
+    return {
+      transactions: [], // Holds all fetched transactions
+      displayedTransactions: [], // Transactions to display in the UI
+      isLoading: true, // Tracks loading state
+      error: null, // Tracks errors
+      userId: "USER__001", // Replace with the actual user ID
+      limit: 3, // Number of recent transactions to fetch
+    };
+  },
+  methods: {
+    // Initialize charts
+    initializeCharts() {
+      Chart.register(...registerables);
+
+      // First Chart: Analytics
+      const ctx1 = document.getElementById("analyticsChart").getContext("2d");
+      new Chart(ctx1, {
+        type: "line",
+        data: {
+          labels: ["January", "February", "March", "April", "May", "June"],
+          datasets: [
+            {
+              label: "User Growth",
+              data: [12, 19, 3, 5, 2, 3],
+              borderColor: "#42b983",
+              tension: 0.4,
+            },
+          ],
+        },
+        options: {
+          responsive: true,
+          plugins: {
+            legend: {
+              position: "top",
+            },
+            tooltip: {
+              enabled: true,
+            },
+          },
+        },
+      });
+
+      // Second Chart: Category Count
+      const ctx2 = document.getElementById("secondaryChart").getContext("2d");
+      new Chart(ctx2, {
+        type: "bar",
+        data: {
+          labels: ["A", "B", "C", "D", "E"],
+          datasets: [
+            {
+              label: "Category Count",
+              data: [5, 10, 15, 20, 25],
+              backgroundColor: "#0F123F",
+            },
+          ],
+        },
+        options: {
+          responsive: true,
+          plugins: {
+            legend: {
+              position: "top",
+            },
+          },
+        },
+      });
+    },
+
+    // Fetch transactions
+    async fetchTransactions() {
+      const baseUrl = "https://banktransactions.onrender.com"; // Replace with your deployed API URL
+      try {
+        const response = await fetch(
+          `${baseUrl}/api/user/${this.userId}/recent_transactions?limit=${this.limit}`
+        );
+        if (!response.ok) {
+          throw new Error("Failed to fetch recent transactions");
+        }
+        this.transactions = await response.json();
+        this.displayedTransactions = this.transactions.slice(0, this.limit); // Display the top `limit` transactions
+        this.isLoading = false;
+      } catch (err) {
+        this.error = err.message;
+        this.isLoading = false;
+      }
+    },
+
+    // Format date to a readable format
+    formatDate(dateString) {
+      const date = new Date(dateString);
+      return date.toLocaleString(); // Format date to a readable format
+    },
+
+    // Update the displayed transaction by index
+    updateDisplayedTransaction(index) {
+      if (index >= 0 && index < this.transactions.length) {
+        this.displayedTransactions = [this.transactions[index]];
+      }
+    },
+  },
+  mounted() {
+    this.fetchTransactions(); // Fetch transactions when the component is mounted
+    this.initializeCharts(); // Initialize charts when the component is mounted
+  },
+};
+</script>
+
   
   <style scoped>
 

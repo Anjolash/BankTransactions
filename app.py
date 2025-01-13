@@ -38,6 +38,28 @@ def get_user_transactions(user_id):
     user_transactions = user_data.to_dict(orient="records")
     return jsonify({user_id: user_transactions})
 
+@app.route("/api/user/<user_id>/recent_transactions", methods=["GET"])
+def get_recent_transactions(user_id):
+    """
+    Fetch the most recent transactions for a specific user by their User ID.
+    You can limit the number of transactions returned using the 'limit' query parameter.
+    Example URL: /api/user/USER__001/recent_transactions?limit=3
+    """
+    # Get the 'limit' query parameter or default to 3
+    limit = int(request.args.get("limit", 3))
+
+    # Filter and sort transactions by date for the user
+    user_data = data[data["User ID"] == user_id].sort_values(by="Date", ascending=False)
+
+    # Check if the user has any transactions
+    if user_data.empty:
+        return jsonify({"message": f"No transactions found for User ID: {user_id}"}), 404
+
+    # Get the top 'n' transactions
+    recent_transactions = user_data.head(limit).to_dict(orient="records")
+    return jsonify(recent_transactions)
+
+
 # Run the Flask app
 if __name__ == "__main__":
     app.run(debug=True)
