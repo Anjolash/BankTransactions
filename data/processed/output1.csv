@@ -1,0 +1,160 @@
+Date,Mode,Category,Subcategory,Note,Amount,Income/Expense,Currency,USD,Merchant,User ID
+2025-01-07,Cash,Family,Pocket money,,1000.0,Expense,INR,12.0,Interac Transfer,USER__001
+2024-12-20,Credit Card,Food,Dinner,Domino's Pizza,510.85,Expense,INR,6.1302,Amazon,USER__002
+2024-12-27,Credit Card,Food,Dinner,Home Food Delivery,1120.0,Expense,INR,13.44,Uber,USER__003
+2025-01-10,Cash,Festivals,Navratri,Ganpati+ navratri vargani,1000.0,Expense,INR,12.0,Home Depot,USER__004
+2024-12-29,Credit Card,Transportation,train,2 Place 2 to Place 3 : Sevagram express 3AC,1305.4,Expense,INR,15.6648,Best Buy,USER__005
+2025-01-03,Credit Card,Transportation,train,2 Place 3 to Place 2 : Amritsar express 3AC,1205.4,Expense,INR,14.4648,Lyft,USER__006
+2025-01-10,Cash,Household,Kirana,Supermart,594.0,Expense,INR,7.128,Shell,USER__007
+2024-12-31,Saving Bank account 1,Money transfer,Home,,30000.0,Expense,INR,360.0,Home Depot,USER__008
+2024-12-17,Debit Card,Culture,Movie,2 INOX ,481.36,Expense,INR,5.77632,Amazon,USER__009
+2024-12-17,Credit Card,Household,Kirana,Supermart,3750.0,Expense,INR,45.0,Lyft,USER__010
+2024-12-24,Credit Card,Health,Medicine,Cataract Medicine,1048.0,Expense,INR,12.576,Amazon,USER__011
+2025-01-07,Credit Card,Household,Hardware,Sony WI-C100 earphones wireless,1190.0,Expense,INR,14.28,Amazon,USER__012
+2024-12-14,Cash,Food,vegetables,,500.0,Expense,INR,6.0,Walmart,USER__013
+2024-12-12,Credit Card,Health,Medicine,Cataract Medicine,1358.0,Expense,INR,16.296,Target,USER__014
+2025-01-08,Saving Bank account 1,Household,Appliances,Aqugurad PRV,1200.0,Expense,INR,14.4,eBay,USER__015
+2024-12-30,Credit Card,Food,Dinner,Home Food Delivery,455.0,Expense,INR,5.46,Walmart,USER__016
+2024-12-12,Credit Card,Apparel,Accessories,Purse,450.0,Expense,INR,5.4,Best Buy,USER__017
+2024-12-26,Credit Card,Apparel,Footwear,Rainy season chappal,550.0,Expense,INR,6.6,Amazon,USER__018
+2024-12-16,Credit Card,Household,Kirana,Supermart,1990.0,Expense,INR,23.88,Amazon,USER__019
+2025-01-11,Saving Bank account 1,Household,Appliances,Aqugurad water purifier,13050.0,Expense,INR,156.6,Walmart,USER__020
+2025-01-06,Credit Card,Household,Kirana,Smart point,2074.0,Expense,INR,24.888,Target,USER__001
+2024-12-21,Credit Card,subscription,Mobile Service Provider,Annual recharge,2545.0,Expense,INR,30.54,Lyft,USER__002
+2024-12-31,Saving Bank account 1,Family,Pocket money,,2000.0,Expense,INR,24.0,Interac Transfer,USER__003
+2024-12-14,Saving Bank account 1,Transportation,train,2CC Place 2 to DDR Spl Train,1213.6,Expense,INR,14.5632,Shell,USER__004
+2024-12-27,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,667.0,Expense,INR,8.004,Uber,USER__005
+2024-12-21,Saving Bank account 1,Household,Appliances,LG Washing Machine,21500.0,Expense,INR,258.0,Best Buy,USER__006
+2025-01-12,Saving Bank account 1,Food,fruits,2 dozens mango + 1kg litchi,1250.0,Expense,INR,15.0,Amazon,USER__007
+2024-12-21,Cash,Family,Pocket money,,500.0,Expense,INR,6.0,Interac Transfer,USER__008
+2024-12-21,Cash,Family,Pocket money,,1000.0,Expense,INR,12.0,Interac Transfer,USER__009
+2025-01-06,Credit Card,Household,Kirana,Smart point,450.0,Expense,INR,5.4,Amazon,USER__010
+2024-12-29,Credit Card,Household,Kitchen,"Vessels for sugar, coffee and tea",799.0,Expense,INR,9.588,Uber,USER__011
+2024-12-19,Credit Card,Family,makeup,Body mist,525.0,Expense,INR,6.3,Interac Transfer,USER__012
+2024-12-18,Cash,Health,Lab Tests,Family Thyroid Test + CBC,700.0,Expense,INR,8.4,Best Buy,USER__013
+2024-12-18,Credit Card,Food,Lunch,Domino's Pizza,419.0,Expense,INR,5.028,Best Buy,USER__014
+2024-12-12,Credit Card,Food,Dinner,At restaurant,1234.0,Expense,INR,14.808,Shell,USER__015
+2024-12-29,Credit Card,Family,clothes,Trouser,799.0,Expense,INR,9.588,Interac Transfer,USER__016
+2025-01-09,Credit Card,Family,clothes,Belt + bow,498.0,Expense,INR,5.976,Interac Transfer,USER__017
+2025-01-08,Credit Card,Food,Dinner,Domino's Pizza,578.0,Expense,INR,6.936,Home Depot,USER__018
+2024-12-29,Cash,Family,Pocket money,,480.0,Expense,INR,5.76,Interac Transfer,USER__019
+2024-12-26,Credit Card,Transportation,Bike,First servicing,443.0,Expense,INR,5.316,Best Buy,USER__020
+2024-12-14,Saving Bank account 1,Household,Appliances,Kitchen fan + installation+ repair,2600.0,Expense,INR,31.2,eBay,USER__001
+2025-01-09,Credit Card,Food,Dinner,BBQ,1783.0,Expense,INR,21.396,Walmart,USER__002
+2025-01-10,Credit Card,Family,clothes,,3598.0,Expense,INR,43.176,Interac Transfer,USER__003
+2025-01-07,Credit Card,Household,Kirana,Smart point,976.9,Expense,INR,11.7228,Walmart,USER__004
+2024-12-13,Credit Card,Household,Kirana,Supermart,764.0,Expense,INR,9.168,eBay,USER__005
+2024-12-13,Saving Bank account 1,Transportation,Bike,Two Wheeler Bikedelux third installment,43000.0,Expense,INR,516.0,Amazon,USER__006
+2024-12-25,Credit Card,Apparel,Clothing,Pyjama (999)+ carry bag (10),1009.0,Expense,INR,12.108,Starbucks,USER__007
+2024-12-17,Saving Bank account 1,Transportation,Bike,Two Wheeler Bikedelux second installment,50000.0,Expense,INR,600.0,Home Depot,USER__008
+2024-12-29,Credit Card,Household,Hardware,Vibrating electronic message tool,798.0,Expense,INR,9.576,Target,USER__009
+2025-01-07,Cash,Health,Medicine,Thyroid Tablets,740.0,Expense,INR,8.88,Target,USER__010
+2024-12-15,Saving Bank account 1,Family,misc,For utensils,450.0,Expense,INR,5.4,Interac Transfer,USER__011
+2024-12-26,Credit Card,subscription,Newspaper,"ET Prime (1+1) till 24 Dec,2024",1749.0,Expense,INR,20.988,Best Buy,USER__012
+2024-12-21,Credit Card,subscription,Edtech Course,Renewal,28400.0,Expense,INR,340.8,Amazon,USER__013
+2024-12-24,Cash,Family,Pocket money,,500.0,Expense,INR,6.0,Interac Transfer,USER__014
+2024-12-23,Credit Card,Food,Dinner,At restaurant,505.0,Expense,INR,6.06,Shell,USER__015
+2025-01-06,Credit Card,Household,Kirana,Dmart,878.0,Expense,INR,10.536,Shell,USER__016
+2024-12-30,Saving Bank account 1,Health,Health,Glasses remaining,800.0,Expense,INR,9.6,Target,USER__017
+2025-01-09,Credit Card,Health,Health,Family's Glasses,22700.0,Expense,INR,272.4,Shell,USER__018
+2025-01-06,Saving Bank account 1,Money transfer,Home,,10000.0,Expense,INR,120.0,Uber,USER__019
+2024-12-17,Saving Bank account 1,Health,Health,Glasses advance,1000.0,Expense,INR,12.0,Target,USER__020
+2025-01-04,Credit Card,Apparel,Footwear,Sandals Hush puppies,2699.0,Expense,INR,32.388,Walmart,USER__001
+2024-12-24,Credit Card,Culture,Movie,2 PVR Place 6,436.0,Expense,INR,5.232,Lyft,USER__002
+2025-01-04,Credit Card,Food,Dinner,Home Food Delivery,524.0,Expense,INR,6.288,Amazon,USER__003
+2024-12-14,Cash,Family,Pocket money,,770.0,Expense,INR,9.24,Interac Transfer,USER__004
+2025-01-03,Credit Card,subscription,Hotstar,subscription 1yr,795.49,Expense,INR,9.54588,Amazon,USER__005
+2024-12-26,Cash,Festivals,Diwali,Offering,500.0,Expense,INR,6.0,Walmart,USER__006
+2024-12-25,Credit Card,Transportation,train,2 Place 2 to Place 3 : Sevagram express 3AC,1333.0,Expense,INR,15.996,Amazon,USER__007
+2024-12-12,Credit Card,Transportation,train,2 Place 3 to Place 2 : Amritsar express 3AC,1231.0,Expense,INR,14.772,Amazon,USER__008
+2025-01-11,Cash,Household,Kitchen,Cooktop installation+ base,600.0,Expense,INR,7.2,Amazon,USER__009
+2024-12-26,Saving Bank account 1,Transportation,Travels,2 Place 1 to Place 2 - Novelty tour and travels,2388.0,Expense,INR,28.656,Amazon,USER__010
+2025-01-02,Credit Card,Culture,Movie,2,560.0,Expense,INR,6.72,Uber,USER__011
+2025-01-05,Credit Card,Household,Kirana,Supermart,558.0,Expense,INR,6.696,eBay,USER__012
+2024-12-30,Saving Bank account 1,Transportation,Travels,2 Place 2 to Place 1 - Novelty tour and travels,1400.0,Expense,INR,16.8,Best Buy,USER__013
+2025-01-09,Cash,Transportation,Taxi,Ola cab - Domestic airport T1 to Current Residence,640.0,Expense,INR,7.68,eBay,USER__014
+2024-12-23,Credit Card,Household,home decor,2 Bedsheets (1500 each),3000.0,Expense,INR,36.0,Lyft,USER__015
+2024-12-21,Credit Card,Apparel,Clothing,Jaipuri handprinted Maharani Saree (1850 Two pcs + 1500 1 pc),5200.0,Expense,INR,62.4,Uber,USER__016
+2024-12-25,Cash,Transportation,Taxi,Ola cab - Current Residence to Domestic airport T1,850.0,Expense,INR,10.2,Shell,USER__017
+2025-01-06,Cash,Family,Pocket money,,5000.0,Expense,INR,60.0,Interac Transfer,USER__018
+2024-12-15,Credit Card,Food,Lunch,280 chicken dum biryani+ 200 paneer tikka laziz + GST,504.0,Expense,INR,6.048,Best Buy,USER__019
+2024-12-25,Credit Card,Household,Furniture,Foldable wardrobe,569.0,Expense,INR,6.828,Walmart,USER__020
+2025-01-02,Credit Card,Household,Appliances,Wifi Router TP link,1400.0,Expense,INR,16.8,Amazon,USER__001
+2024-12-26,Saving Bank account 1,Transportation,Travels,2 Neeta travels : Place A to pune,895.0,Expense,INR,10.74,Shell,USER__002
+2025-01-10,Cash,Household,Appliances,Laptop repair,1000.0,Expense,INR,12.0,eBay,USER__003
+2024-12-28,Saving Bank account 1,Household,Appliances,Laptop repair ( 128gb SSD rs 2200+ 500gb HDD Rs.1800 + Msoffice+ windows),3000.0,Expense,INR,36.0,Home Depot,USER__004
+2025-01-03,Credit Card,Health,Medicine,Hospital consultation,556.0,Expense,INR,6.672,Lyft,USER__005
+2024-12-24,Credit Card,Health,Hospital,Hospital consultation,3050.0,Expense,INR,36.6,Amazon,USER__006
+2025-01-11,Saving Bank account 1,Tourism,Trip,Tours and Travel,20000.0,Expense,INR,240.0,eBay,USER__007
+2024-12-23,Saving Bank account 1,Household,Appliances,Tata sky STB (1299)+ 1 month recharge (226)+ extra wire 45meters(540),2065.0,Expense,INR,24.78,Lyft,USER__008
+2025-01-03,Credit Card,subscription,Mobile Service Provider,Annual recharge,2545.0,Expense,INR,30.54,Target,USER__009
+2025-01-10,Saving Bank account 1,Household,Hardware,Umbrella,540.0,Expense,INR,6.48,Target,USER__010
+2024-12-21,Credit Card,Food,Lunch,1 dal makhani rice(200)+ 1 chicken tikka rice(220)+chocolate pastry (120),540.0,Expense,INR,6.48,Amazon,USER__011
+2025-01-09,Saving Bank account 1,Family,Pocket money,,1500.0,Expense,INR,18.0,Interac Transfer,USER__012
+2025-01-04,Saving Bank account 1,Apparel,Clothing,undergarments pair of Jockey,655.0,Expense,INR,7.86,Target,USER__013
+2024-12-15,Saving Bank account 1,Household,Kirana,,996.0,Expense,INR,11.952,Walmart,USER__014
+2024-12-27,Saving Bank account 1,Household,Kirana,Smart point,621.68,Expense,INR,7.46016,Best Buy,USER__015
+2024-12-29,Saving Bank account 1,Food,Dinner,"The X restaurant, Place 1",1076.0,Expense,INR,12.912,Lyft,USER__016
+2024-12-16,Saving Bank account 1,Family,clothes,H&M clothes,1497.0,Expense,INR,17.964,Interac Transfer,USER__017
+2024-12-12,Saving Bank account 1,Family,Pocket money,,5000.0,Expense,INR,60.0,Interac Transfer,USER__018
+2024-12-18,Cash,Food,Lunch,( pav bhaji + 2 extra pav + sabudana khichdi + kothimbir vada + masala bhat + piyush ),495.0,Expense,INR,5.94,Walmart,USER__019
+2024-12-14,Cash,Household,Hardware,Laptop repair (servicing+ 2gb ram upgrade + fan replacement + antivirus),2500.0,Expense,INR,30.0,Lyft,USER__020
+2024-12-22,Saving Bank account 1,Household,Kirana,Smart,786.0,Expense,INR,9.432,Lyft,USER__001
+2024-12-19,Saving Bank account 1,Transportation,Travels,Place 2 to Place 1,900.0,Expense,INR,10.8,Lyft,USER__002
+2025-01-11,Saving Bank account 1,Family,Pocket money,,3000.0,Expense,INR,36.0,Interac Transfer,USER__003
+2024-12-20,Cash,Household,Furniture,Mattress advance,500.0,Expense,INR,6.0,Walmart,USER__004
+2024-12-24,Saving Bank account 1,Transportation,Travels,Place 6 to Place 2,600.0,Expense,INR,7.2,Best Buy,USER__005
+2024-12-16,Saving Bank account 1,Household,Appliances,2 Spike guard,450.0,Expense,INR,5.4,Starbucks,USER__006
+2024-12-30,Saving Bank account 1,subscription,Wifi Internet Service,6 months ( 30mb UL plan + 1 month free),2820.0,Expense,INR,33.84,Amazon,USER__007
+2024-12-20,Cash,Household,Hardware,ceiling fans repair,1600.0,Expense,INR,19.2,Walmart,USER__008
+2024-12-14,Saving Bank account 1,Food,Dinner,At restaurant,2421.0,Expense,INR,29.052,Walmart,USER__009
+2025-01-05,Saving Bank account 1,Household,Kirana,,846.0,Expense,INR,10.152,Amazon,USER__010
+2025-01-11,Saving Bank account 1,Household,Appliances,exide inverter battery 150amp,8500.0,Expense,INR,102.0,Amazon,USER__011
+2024-12-16,Cash,Household,Appliances,tube and inverter fitting,1600.0,Expense,INR,19.2,Amazon,USER__012
+2025-01-08,Cash,Household,Kitchen,hp cylinder,920.0,Expense,INR,11.04,Walmart,USER__013
+2025-01-12,Saving Bank account 1,Transportation,Taxi,Place 2 to Place 1,5500.0,Expense,INR,66.0,Starbucks,USER__014
+2025-01-07,Saving Bank account 1,Apparel,Clothing,undergarments pair of Jockey,498.0,Expense,INR,5.976,Walmart,USER__015
+2024-12-22,Cash,Family,Pocket money,,500.0,Expense,INR,6.0,Interac Transfer,USER__016
+2024-12-14,Cash,Transportation,Bus,2 tickets Place 2 to N,510.0,Expense,INR,6.12,Amazon,USER__017
+2024-12-14,Saving Bank account 1,Family,Pocket money,,2000.0,Expense,INR,24.0,Interac Transfer,USER__018
+2024-12-15,Saving Bank account 1,Household,Furniture,chair pair,2400.0,Expense,INR,28.8,Uber,USER__019
+2025-01-03,Cash,Food,Grocery,fruits and vegetables + kirana,540.0,Expense,INR,6.48,Shell,USER__020
+2024-12-18,Cash,subscription,Edtech Course,EMI 1,2816.0,Expense,INR,33.792,Home Depot,USER__001
+2025-01-10,Saving Bank account 1,Family,clothes,sweater,1874.0,Expense,INR,22.488,Interac Transfer,USER__002
+2024-12-12,Saving Bank account 1,Transportation,Travels,Place 2 to Place 1 - Novelty tour and travels,1900.0,Expense,INR,22.8,eBay,USER__003
+2024-12-14,Saving Bank account 1,Family,Pocket money,,2000.0,Expense,INR,24.0,Interac Transfer,USER__004
+2025-01-06,Saving Bank account 1,Family,clothes,leggings,500.0,Expense,INR,6.0,Interac Transfer,USER__005
+2025-01-09,Saving Bank account 1,Household,Appliances,Metz 32 inch TV,20500.0,Expense,INR,246.0,Lyft,USER__006
+2025-01-11,Saving Bank account 1,Food,Eating out,"3 parathe , 1 Hara bhara kabab, 1 rabdi malai, 1 masala papad, 1 pepsi",1087.0,Expense,INR,13.044,Target,USER__007
+2024-12-22,Saving Bank account 1,Transportation,Travels,Veer Travels - BRC to Place 2 ( 2 Adults),1800.0,Expense,INR,21.6,Shell,USER__008
+2024-12-29,Saving Bank account 1,Transportation,Travels,Kabra Travels - Place 2 to BRC (2 Adults),4662.0,Expense,INR,55.944,Shell,USER__009
+2025-01-12,Saving Bank account 1,Festivals,Diwali,Mi band 5 ( Bhaiduj gift),1999.0,Expense,INR,23.988,Shell,USER__010
+2024-12-28,Saving Bank account 1,Family,gift,Undated Planner - June shop,1119.2,Expense,INR,13.4304,Interac Transfer,USER__011
+2024-12-28,Saving Bank account 1,Health,Medicine,,617.0,Expense,INR,7.404,Best Buy,USER__012
+2024-12-20,Saving Bank account 1,Food,Grocery,,430.0,Expense,INR,5.16,eBay,USER__013
+2024-12-16,Saving Bank account 1,Family,gift,baggit purse,437.0,Expense,INR,5.244,Interac Transfer,USER__014
+2024-12-18,Saving Bank account 1,Food,Eating out,riverdine date,845.0,Expense,INR,10.14,Walmart,USER__015
+2025-01-01,Saving Bank account 1,Festivals,Rakshabandhan,rakshabandhan ovalni ,500.0,Expense,INR,6.0,eBay,USER__016
+2024-12-23,Saving Bank account 1,Family,Pocket money,,2000.0,Expense,INR,24.0,Interac Transfer,USER__017
+2025-01-12,Saving Bank account 1,Festivals,Rakshabandhan,rakshabandhan ovalni ,500.0,Expense,INR,6.0,Amazon,USER__018
+2025-01-04,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge 365 days,2599.0,Expense,INR,31.188,Best Buy,USER__019
+2024-12-22,Saving Bank account 1,Transportation,Travels,Chalisgaon to Baroda return,3200.0,Expense,INR,38.4,Lyft,USER__020
+2024-12-23,Saving Bank account 1,subscription,Amazon Prime,Amazon prime subscription,995.0,Expense,INR,11.94,Home Depot,USER__001
+2024-12-28,Saving Bank account 1,Food,Grocery,grocery,600.0,Expense,INR,7.2,eBay,USER__002
+2024-12-27,Saving Bank account 1,Family,exam fee,Family exam form,905.0,Expense,INR,10.86,Interac Transfer,USER__003
+2025-01-06,Saving Bank account 1,Food,Grocery,sanitary napkins+chocolates+Maggie+khajoor,504.0,Expense,INR,6.048,Amazon,USER__004
+2025-01-03,Saving Bank account 1,Investment,LIC,Life Insurance,11286.0,Expense,INR,135.432,Walmart,USER__005
+2024-12-23,Cash,Beauty,Makeup,hair cut+shaving+dye+facial,2000.0,Expense,INR,24.0,Amazon,USER__006
+2024-12-15,Saving Bank account 1,Transportation,Bus,redbus - brc to Place 2,665.0,Expense,INR,7.98,Walmart,USER__007
+2024-12-15,Cash,Transportation,Bus,Place 2 to brc travels,660.0,Expense,INR,7.92,Target,USER__008
+2024-12-19,Saving Bank account 1,Apparel,Clothing,belt + socs,1479.0,Expense,INR,17.748,Walmart,USER__009
+2025-01-09,Saving Bank account 1,Transportation,Taxi,Ola - Place 1 to Place 5 to and fro,803.0,Expense,INR,9.636,Uber,USER__010
+2025-01-06,Saving Bank account 1,Household,Kitchen,mixer Philips 7756,3499.0,Expense,INR,41.988,Amazon,USER__011
+2024-12-23,Saving Bank account 1,Household,Appliances,electricity bill,2671.0,Expense,INR,32.052,Home Depot,USER__012
+2024-12-31,Saving Bank account 1,Transportation,Taxi,BR to mumbai,6000.0,Expense,INR,72.0,Starbucks,USER__013
+2025-01-11,Saving Bank account 1,Food,Grocery,snacks + veggie,420.0,Expense,INR,5.04,Amazon,USER__014
+2025-01-02,Saving Bank account 1,Investment,Mutual fund, mutual fund,1000.0,Expense,INR,12.0,Amazon,USER__015
+2024-12-18,Credit Card,Food,Grocery,,433.8,Expense,INR,5.2056,Lyft,USER__016
+2025-01-09,Credit Card,Health,Hospital,dentist check-up,3700.0,Expense,INR,44.4,eBay,USER__017
+2025-01-08,Cash,Health,Hospital,dentist check-up,1000.0,Expense,INR,12.0,Best Buy,USER__018
+2025-01-07,Credit Card,Transportation,train,to and fro Mum to BRC,526.0,Expense,INR,6.312,Starbucks,USER__019
