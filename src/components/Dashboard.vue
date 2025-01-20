@@ -7,72 +7,73 @@
               <!-- Placeholder for logo -->
               <img src="../assets/newtemplate.svg" alt="Logo" />
             </div>
-            <div class="middle">
-              <ul>
-                <li>
-                  <a href="#" class="nav_link">
-                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <g clip-path="url(#clip0_3588_13)">
-                        <path d="M4.09091 1.8212e-06C3.2818 1.8212e-06 2.49087 0.239929 1.81812 0.689444C1.14538 1.13896 0.621035 1.77787 0.311404 2.52539C0.00177253 3.2729 -0.0792411 4.09545 0.0786075 4.88901C0.236456 5.68257 0.626077 6.41149 1.1982 6.98362C1.77032 7.55574 2.49926 7.94536 3.29281 8.10321C4.08637 8.26106 4.90892 8.18005 5.65643 7.87042C6.40395 7.56079 7.04286 7.03644 7.49238 6.3637C7.94189 5.69095 8.18182 4.90002 8.18182 4.09091C8.18182 3.00593 7.75081 1.9654 6.98362 1.1982C6.21642 0.431007 5.17589 1.8212e-06 4.09091 1.8212e-06ZM4.09091 6.54545C3.60545 6.54545 3.13089 6.4015 2.72724 6.13179C2.32359 5.86208 2.00898 5.47873 1.82321 5.03022C1.63743 4.58171 1.58882 4.08819 1.68353 3.61205C1.77824 3.13592 2.01201 2.69856 2.35528 2.35528C2.69856 2.01201 3.13592 1.77824 3.61205 1.68353C4.08819 1.58882 4.58171 1.63743 5.03022 1.82321C5.47873 2.00898 5.86208 2.32359 6.13179 2.72724C6.4015 3.13089 6.54545 3.60545 6.54545 4.09091C6.54545 4.7419 6.28685 5.36622 5.82654 5.82654C5.36622 6.28685 4.7419 6.54545 4.09091 6.54545ZM13.9091 8.18182C14.7182 8.18182 15.5091 7.94189 16.1819 7.49238C16.8546 7.04286 17.379 6.40395 17.6886 5.65643C17.9982 4.90892 18.0792 4.08637 17.9214 3.29281C17.7635 2.49926 17.3739 1.77032 16.8018 1.1982C16.2297 0.626077 15.5007 0.236456 14.7072 0.0786075C13.9136 -0.0792411 13.0911 0.00177253 12.3436 0.311404C11.5961 0.621035 10.9571 1.14538 10.5076 1.81812C10.0581 2.49087 9.81818 3.2818 9.81818 4.09091C9.81818 5.17589 10.2492 6.21642 11.0164 6.98362C11.7836 7.75081 12.8241 8.18182 13.9091 8.18182ZM13.9091 1.63637C14.3946 1.63637 14.8691 1.78032 15.2728 2.05003C15.6764 2.31974 15.991 2.70309 16.1768 3.1516C16.3626 3.60011 16.4112 4.09363 16.3165 4.56977C16.2218 5.0459 15.988 5.48326 15.6447 5.82654C15.3014 6.16981 14.8641 6.40358 14.3879 6.49829C13.9118 6.593 13.4183 6.54439 12.9698 6.35861C12.5213 6.17284 12.1379 5.85823 11.8682 5.45458C11.5985 5.05093 11.4545 4.57637 11.4545 4.09091C11.4545 3.43992 11.7131 2.8156 12.1735 2.35528C12.6338 1.89497 13.2581 1.63637 13.9091 1.63637ZM4.09091 9.81818C3.2818 9.81818 2.49087 10.0581 1.81812 10.5076C1.14538 10.9571 0.621035 11.5961 0.311404 12.3436C0.00177253 13.0911 -0.0792411 13.9136 0.0786075 14.7072C0.236456 15.5007 0.626077 16.2297 1.1982 16.8018C1.77032 17.3739 2.49926 17.7635 3.29281 17.9214C4.08637 18.0792 4.90892 17.9982 5.65643 17.6886C6.40395 17.379 7.04286 16.8546 7.49238 16.1819C7.94189 15.5091 8.18182 14.7182 8.18182 13.9091C8.18182 12.8241 7.75081 11.7836 6.98362 11.0164C6.21642 10.2492 5.17589 9.81818 4.09091 9.81818ZM4.09091 16.3636C3.60545 16.3636 3.13089 16.2197 2.72724 15.95C2.32359 15.6803 2.00898 15.2969 1.82321 14.8484C1.63743 14.3999 1.58882 13.9064 1.68353 13.4302C1.77824 12.9541 2.01201 12.5167 2.35528 12.1735C2.69856 11.8302 3.13592 11.5964 3.61205 11.5017C4.08819 11.407 4.58171 11.4556 5.03022 11.6414C5.47873 11.8272 5.86208 12.1418 6.13179 12.5454C6.4015 12.9491 6.54545 13.4236 6.54545 13.9091C6.54545 14.5601 6.28685 15.1844 5.82654 15.6447C5.36622 16.105 4.7419 16.3636 4.09091 16.3636ZM13.9091 9.81818C13.1 9.81818 12.309 10.0581 11.6363 10.5076C10.9636 10.9571 10.4392 11.5961 10.1296 12.3436C9.81995 13.0911 9.73894 13.9136 9.89679 14.7072C10.0546 15.5007 10.4443 16.2297 11.0164 16.8018C11.5885 17.3739 12.3174 17.7635 13.111 17.9214C13.9046 18.0792 14.7271 17.9982 15.4746 17.6886C16.2221 17.379 16.861 16.8546 17.3106 16.1819C17.7601 15.5091 18 14.7182 18 13.9091C18 12.8241 17.569 11.7836 16.8018 11.0164C16.0346 10.2492 14.9941 9.81818 13.9091 9.81818ZM13.9091 16.3636C13.4236 16.3636 12.9491 16.2197 12.5454 15.95C12.1418 15.6803 11.8272 15.2969 11.6414 14.8484C11.4556 14.3999 11.407 13.9064 11.5017 13.4302C11.5964 12.9541 11.8302 12.5167 12.1735 12.1735C12.5167 11.8302 12.9541 11.5964 13.4302 11.5017C13.9064 11.407 14.3999 11.4556 14.8484 11.6414C15.2969 11.8272 15.6803 12.1418 15.95 12.5454C16.2197 12.9491 16.3636 13.4236 16.3636 13.9091C16.3636 14.5601 16.105 15.1844 15.6447 15.6447C15.1844 16.105 14.5601 16.3636 13.9091 16.3636Z" fill="currentColor"/>
-                      </g>
-                      <defs>
-                        <clipPath id="clip0_3588_13">
-                          <rect width="18" height="18" fill="white"/>
-                        </clipPath>
-                      </defs>
-                    </svg>
-                    <span>Dashboard</span>         
-                  </a>
-                </li>
-                <li>
-                  <a href="#" class="nav_link">
-                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <g clip-path="url(#clip0_3598_52)">
-                        <path d="M7.94255 13.3302C8.01862 13.4062 8.07897 13.4964 8.12014 13.5957C8.16131 13.6951 8.1825 13.8015 8.1825 13.909C8.1825 14.0165 8.16131 14.123 8.12014 14.2223C8.07897 14.3217 8.01862 14.4119 7.94255 14.4879L4.66999 17.7604C4.59401 17.8365 4.50378 17.8968 4.40446 17.938C4.30514 17.9792 4.19867 18.0004 4.09116 18.0004C3.98364 18.0004 3.87718 17.9792 3.77786 17.938C3.67854 17.8968 3.58831 17.8365 3.51232 17.7604L0.239761 14.4879C0.163747 14.4119 0.10345 14.3216 0.0623119 14.2223C0.0211736 14.123 0 14.0165 0 13.909C0 13.8015 0.0211736 13.6951 0.0623119 13.5958C0.10345 13.4964 0.163747 13.4062 0.239761 13.3302C0.393277 13.1767 0.60149 13.0904 0.818595 13.0904C0.926095 13.0904 1.03254 13.1116 1.13186 13.1527C1.23117 13.1939 1.32142 13.2542 1.39743 13.3302L3.27302 15.2068V0.818784C3.27302 0.6018 3.35921 0.393703 3.51264 0.240272C3.66608 0.0868405 3.87417 0.000643698 4.09116 0.000643698C4.30814 0.000643698 4.51624 0.0868405 4.66967 0.240272C4.8231 0.393703 4.9093 0.6018 4.9093 0.818784V15.2068L6.78488 13.3302C6.86087 13.2541 6.9511 13.1938 7.05042 13.1526C7.14974 13.1114 7.2562 13.0902 7.36372 13.0902C7.47123 13.0902 7.5777 13.1114 7.67702 13.1526C7.77634 13.1938 7.86657 13.2541 7.94255 13.3302ZM17.7602 3.51251L14.4877 0.23995C14.4117 0.163882 14.3215 0.103537 14.2221 0.0623645C14.1228 0.0211922 14.0164 0 13.9088 0C13.8013 0 13.6949 0.0211922 13.5955 0.0623645C13.4962 0.103537 13.406 0.163882 13.33 0.23995L10.0574 3.51251C9.90393 3.66603 9.81768 3.87424 9.81768 4.09135C9.81768 4.30845 9.90393 4.51666 10.0574 4.67018C10.211 4.8237 10.4192 4.90994 10.6363 4.90994C10.8534 4.90994 11.0616 4.8237 11.2151 4.67018L13.0907 2.79357V17.1816C13.0907 17.3986 13.1769 17.6067 13.3303 17.7601C13.4838 17.9135 13.6919 17.9997 13.9088 17.9997C14.1258 17.9997 14.3339 17.9135 14.4874 17.7601C14.6408 17.6067 14.727 17.3986 14.727 17.1816V2.79357L16.6026 4.67018C16.7561 4.8237 16.9643 4.90994 17.1814 4.90994C17.3985 4.90994 17.6067 4.8237 17.7602 4.67018C17.9138 4.51666 18 4.30845 18 4.09135C18 3.87424 17.9138 3.66603 17.7602 3.51251Z" fill="currentColor"/>
-                      </g>
-                      <defs>
-                        <clipPath id="clip0_3598_52">
-                          <rect width="18" height="18.0004" fill="white"/>
-                        </clipPath>
-                      </defs>
-                    </svg>
-                    <span>Transactions</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="#" class="nav_link">
-                    <svg width="18" height="13" viewBox="0 0 18 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <g clip-path="url(#clip0_3603_58)">
-                        <path d="M16.7143 0H1.28571C0.944722 0 0.617695 0.135459 0.376577 0.376577C0.135459 0.617695 0 0.944722 0 1.28571V11.5714C0 11.9124 0.135459 12.2394 0.376577 12.4806C0.617695 12.7217 0.944722 12.8571 1.28571 12.8571H16.7143C17.0553 12.8571 17.3823 12.7217 17.6234 12.4806C17.8645 12.2394 18 11.9124 18 11.5714V1.28571C18 0.944722 17.8645 0.617695 17.6234 0.376577C17.3823 0.135459 17.0553 0 16.7143 0ZM16.7143 1.28571V3.21429H1.28571V1.28571H16.7143ZM16.7143 11.5714H1.28571V4.5H16.7143V11.5714ZM15.4286 9.64286C15.4286 9.81335 15.3608 9.97687 15.2403 10.0974C15.1197 10.218 14.9562 10.2857 14.7857 10.2857H12.2143C12.0438 10.2857 11.8803 10.218 11.7597 10.0974C11.6392 9.97687 11.5714 9.81335 11.5714 9.64286C11.5714 9.47236 11.6392 9.30885 11.7597 9.18829C11.8803 9.06773 12.0438 9 12.2143 9H14.7857C14.9562 9 15.1197 9.06773 15.2403 9.18829C15.3608 9.30885 15.4286 9.47236 15.4286 9.64286ZM10.2857 9.64286C10.2857 9.81335 10.218 9.97687 10.0974 10.0974C9.97687 10.218 9.81335 10.2857 9.64286 10.2857H8.35714C8.18665 10.2857 8.02313 10.218 7.90257 10.0974C7.78202 9.97687 7.71429 9.81335 7.71429 9.64286C7.71429 9.47236 7.78202 9.30885 7.90257 9.18829C8.02313 9.06773 8.18665 9 8.35714 9H9.64286C9.81335 9 9.97687 9.06773 10.0974 9.18829C10.218 9.30885 10.2857 9.47236 10.2857 9.64286Z" fill="currentColor"/>
-                      </g>
-                      <defs>
-                        <clipPath id="clip0_3603_58">
-                          <rect width="18" height="12.8571" fill="white"/>
-                        </clipPath>
-                      </defs>
-                    </svg>
-                    <span>Cards</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="#" class="nav_link">
-                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <g clip-path="url(#clip0_3603_60)">
-                        <path d="M17.3077 14.5385H16.6154V0.692308C16.6154 0.508696 16.5424 0.332605 16.4126 0.202772C16.2828 0.0729395 16.1067 0 15.9231 0H11.0769C10.8933 0 10.7172 0.0729395 10.5874 0.202772C10.4576 0.332605 10.3846 0.508696 10.3846 0.692308V4.15385H6.23077C6.04716 4.15385 5.87107 4.22679 5.74123 4.35662C5.6114 4.48645 5.53846 4.66254 5.53846 4.84615V8.30769H2.07692C1.89331 8.30769 1.71722 8.38063 1.58739 8.51046C1.45755 8.6403 1.38462 8.81639 1.38462 9V14.5385H0.692308C0.508696 14.5385 0.332605 14.6114 0.202772 14.7412C0.0729393 14.8711 0 15.0472 0 15.2308C0 15.4144 0.0729393 15.5905 0.202772 15.7203C0.332605 15.8501 0.508696 15.9231 0.692308 15.9231H17.3077C17.4913 15.9231 17.6674 15.8501 17.7972 15.7203C17.9271 15.5905 18 15.4144 18 15.2308C18 15.0472 17.9271 14.8711 17.7972 14.7412C17.6674 14.6114 17.4913 14.5385 17.3077 14.5385ZM11.7692 1.38462H15.2308V14.5385H11.7692V1.38462ZM6.92308 5.53846H10.3846V14.5385H6.92308V5.53846ZM2.76923 9.69231H5.53846V14.5385H2.76923V9.69231Z" fill="currentColor"/>
-                      </g>
-                        <defs>
-                        <clipPath id="clip0_3603_60">
-                          <rect width="18" height="15.9231" fill="white"/>
-                        </clipPath>
-                      </defs>
-                    </svg>
-                    <span>Reports</span> 
-                  </a>
-                </li>
-              </ul>
-            </div>
           </div>
+
           <!-- Middle Section -->
+          <div class="middle ">
+            <ul>
+              <li class="">
+                <a href="#" class="nav_link selectedsidebar">
+                  <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <g clip-path="url(#clip0_3588_13)">
+                      <path d="M4.09091 1.8212e-06C3.2818 1.8212e-06 2.49087 0.239929 1.81812 0.689444C1.14538 1.13896 0.621035 1.77787 0.311404 2.52539C0.00177253 3.2729 -0.0792411 4.09545 0.0786075 4.88901C0.236456 5.68257 0.626077 6.41149 1.1982 6.98362C1.77032 7.55574 2.49926 7.94536 3.29281 8.10321C4.08637 8.26106 4.90892 8.18005 5.65643 7.87042C6.40395 7.56079 7.04286 7.03644 7.49238 6.3637C7.94189 5.69095 8.18182 4.90002 8.18182 4.09091C8.18182 3.00593 7.75081 1.9654 6.98362 1.1982C6.21642 0.431007 5.17589 1.8212e-06 4.09091 1.8212e-06ZM4.09091 6.54545C3.60545 6.54545 3.13089 6.4015 2.72724 6.13179C2.32359 5.86208 2.00898 5.47873 1.82321 5.03022C1.63743 4.58171 1.58882 4.08819 1.68353 3.61205C1.77824 3.13592 2.01201 2.69856 2.35528 2.35528C2.69856 2.01201 3.13592 1.77824 3.61205 1.68353C4.08819 1.58882 4.58171 1.63743 5.03022 1.82321C5.47873 2.00898 5.86208 2.32359 6.13179 2.72724C6.4015 3.13089 6.54545 3.60545 6.54545 4.09091C6.54545 4.7419 6.28685 5.36622 5.82654 5.82654C5.36622 6.28685 4.7419 6.54545 4.09091 6.54545ZM13.9091 8.18182C14.7182 8.18182 15.5091 7.94189 16.1819 7.49238C16.8546 7.04286 17.379 6.40395 17.6886 5.65643C17.9982 4.90892 18.0792 4.08637 17.9214 3.29281C17.7635 2.49926 17.3739 1.77032 16.8018 1.1982C16.2297 0.626077 15.5007 0.236456 14.7072 0.0786075C13.9136 -0.0792411 13.0911 0.00177253 12.3436 0.311404C11.5961 0.621035 10.9571 1.14538 10.5076 1.81812C10.0581 2.49087 9.81818 3.2818 9.81818 4.09091C9.81818 5.17589 10.2492 6.21642 11.0164 6.98362C11.7836 7.75081 12.8241 8.18182 13.9091 8.18182ZM13.9091 1.63637C14.3946 1.63637 14.8691 1.78032 15.2728 2.05003C15.6764 2.31974 15.991 2.70309 16.1768 3.1516C16.3626 3.60011 16.4112 4.09363 16.3165 4.56977C16.2218 5.0459 15.988 5.48326 15.6447 5.82654C15.3014 6.16981 14.8641 6.40358 14.3879 6.49829C13.9118 6.593 13.4183 6.54439 12.9698 6.35861C12.5213 6.17284 12.1379 5.85823 11.8682 5.45458C11.5985 5.05093 11.4545 4.57637 11.4545 4.09091C11.4545 3.43992 11.7131 2.8156 12.1735 2.35528C12.6338 1.89497 13.2581 1.63637 13.9091 1.63637ZM4.09091 9.81818C3.2818 9.81818 2.49087 10.0581 1.81812 10.5076C1.14538 10.9571 0.621035 11.5961 0.311404 12.3436C0.00177253 13.0911 -0.0792411 13.9136 0.0786075 14.7072C0.236456 15.5007 0.626077 16.2297 1.1982 16.8018C1.77032 17.3739 2.49926 17.7635 3.29281 17.9214C4.08637 18.0792 4.90892 17.9982 5.65643 17.6886C6.40395 17.379 7.04286 16.8546 7.49238 16.1819C7.94189 15.5091 8.18182 14.7182 8.18182 13.9091C8.18182 12.8241 7.75081 11.7836 6.98362 11.0164C6.21642 10.2492 5.17589 9.81818 4.09091 9.81818ZM4.09091 16.3636C3.60545 16.3636 3.13089 16.2197 2.72724 15.95C2.32359 15.6803 2.00898 15.2969 1.82321 14.8484C1.63743 14.3999 1.58882 13.9064 1.68353 13.4302C1.77824 12.9541 2.01201 12.5167 2.35528 12.1735C2.69856 11.8302 3.13592 11.5964 3.61205 11.5017C4.08819 11.407 4.58171 11.4556 5.03022 11.6414C5.47873 11.8272 5.86208 12.1418 6.13179 12.5454C6.4015 12.9491 6.54545 13.4236 6.54545 13.9091C6.54545 14.5601 6.28685 15.1844 5.82654 15.6447C5.36622 16.105 4.7419 16.3636 4.09091 16.3636ZM13.9091 9.81818C13.1 9.81818 12.309 10.0581 11.6363 10.5076C10.9636 10.9571 10.4392 11.5961 10.1296 12.3436C9.81995 13.0911 9.73894 13.9136 9.89679 14.7072C10.0546 15.5007 10.4443 16.2297 11.0164 16.8018C11.5885 17.3739 12.3174 17.7635 13.111 17.9214C13.9046 18.0792 14.7271 17.9982 15.4746 17.6886C16.2221 17.379 16.861 16.8546 17.3106 16.1819C17.7601 15.5091 18 14.7182 18 13.9091C18 12.8241 17.569 11.7836 16.8018 11.0164C16.0346 10.2492 14.9941 9.81818 13.9091 9.81818ZM13.9091 16.3636C13.4236 16.3636 12.9491 16.2197 12.5454 15.95C12.1418 15.6803 11.8272 15.2969 11.6414 14.8484C11.4556 14.3999 11.407 13.9064 11.5017 13.4302C11.5964 12.9541 11.8302 12.5167 12.1735 12.1735C12.5167 11.8302 12.9541 11.5964 13.4302 11.5017C13.9064 11.407 14.3999 11.4556 14.8484 11.6414C15.2969 11.8272 15.6803 12.1418 15.95 12.5454C16.2197 12.9491 16.3636 13.4236 16.3636 13.9091C16.3636 14.5601 16.105 15.1844 15.6447 15.6447C15.1844 16.105 14.5601 16.3636 13.9091 16.3636Z" fill="currentColor"/>
+                    </g>
+                    <defs>
+                      <clipPath id="clip0_3588_13">
+                        <rect width="18" height="18" fill="white"/>
+                      </clipPath>
+                    </defs>
+                  </svg>
+                  <span>Dashboard</span>         
+                </a>
+              </li>
+              <li>
+                <a href="#" class="nav_link">
+                  <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <g clip-path="url(#clip0_3598_52)">
+                      <path d="M7.94255 13.3302C8.01862 13.4062 8.07897 13.4964 8.12014 13.5957C8.16131 13.6951 8.1825 13.8015 8.1825 13.909C8.1825 14.0165 8.16131 14.123 8.12014 14.2223C8.07897 14.3217 8.01862 14.4119 7.94255 14.4879L4.66999 17.7604C4.59401 17.8365 4.50378 17.8968 4.40446 17.938C4.30514 17.9792 4.19867 18.0004 4.09116 18.0004C3.98364 18.0004 3.87718 17.9792 3.77786 17.938C3.67854 17.8968 3.58831 17.8365 3.51232 17.7604L0.239761 14.4879C0.163747 14.4119 0.10345 14.3216 0.0623119 14.2223C0.0211736 14.123 0 14.0165 0 13.909C0 13.8015 0.0211736 13.6951 0.0623119 13.5958C0.10345 13.4964 0.163747 13.4062 0.239761 13.3302C0.393277 13.1767 0.60149 13.0904 0.818595 13.0904C0.926095 13.0904 1.03254 13.1116 1.13186 13.1527C1.23117 13.1939 1.32142 13.2542 1.39743 13.3302L3.27302 15.2068V0.818784C3.27302 0.6018 3.35921 0.393703 3.51264 0.240272C3.66608 0.0868405 3.87417 0.000643698 4.09116 0.000643698C4.30814 0.000643698 4.51624 0.0868405 4.66967 0.240272C4.8231 0.393703 4.9093 0.6018 4.9093 0.818784V15.2068L6.78488 13.3302C6.86087 13.2541 6.9511 13.1938 7.05042 13.1526C7.14974 13.1114 7.2562 13.0902 7.36372 13.0902C7.47123 13.0902 7.5777 13.1114 7.67702 13.1526C7.77634 13.1938 7.86657 13.2541 7.94255 13.3302ZM17.7602 3.51251L14.4877 0.23995C14.4117 0.163882 14.3215 0.103537 14.2221 0.0623645C14.1228 0.0211922 14.0164 0 13.9088 0C13.8013 0 13.6949 0.0211922 13.5955 0.0623645C13.4962 0.103537 13.406 0.163882 13.33 0.23995L10.0574 3.51251C9.90393 3.66603 9.81768 3.87424 9.81768 4.09135C9.81768 4.30845 9.90393 4.51666 10.0574 4.67018C10.211 4.8237 10.4192 4.90994 10.6363 4.90994C10.8534 4.90994 11.0616 4.8237 11.2151 4.67018L13.0907 2.79357V17.1816C13.0907 17.3986 13.1769 17.6067 13.3303 17.7601C13.4838 17.9135 13.6919 17.9997 13.9088 17.9997C14.1258 17.9997 14.3339 17.9135 14.4874 17.7601C14.6408 17.6067 14.727 17.3986 14.727 17.1816V2.79357L16.6026 4.67018C16.7561 4.8237 16.9643 4.90994 17.1814 4.90994C17.3985 4.90994 17.6067 4.8237 17.7602 4.67018C17.9138 4.51666 18 4.30845 18 4.09135C18 3.87424 17.9138 3.66603 17.7602 3.51251Z" fill="currentColor"/>
+                    </g>
+                    <defs>
+                      <clipPath id="clip0_3598_52">
+                        <rect width="18" height="18.0004" fill="white"/>
+                      </clipPath>
+                    </defs>
+                  </svg>
+                  <span>Transactions</span>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="nav_link">
+                  <svg width="18" height="13" viewBox="0 0 18 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <g clip-path="url(#clip0_3603_58)">
+                      <path d="M16.7143 0H1.28571C0.944722 0 0.617695 0.135459 0.376577 0.376577C0.135459 0.617695 0 0.944722 0 1.28571V11.5714C0 11.9124 0.135459 12.2394 0.376577 12.4806C0.617695 12.7217 0.944722 12.8571 1.28571 12.8571H16.7143C17.0553 12.8571 17.3823 12.7217 17.6234 12.4806C17.8645 12.2394 18 11.9124 18 11.5714V1.28571C18 0.944722 17.8645 0.617695 17.6234 0.376577C17.3823 0.135459 17.0553 0 16.7143 0ZM16.7143 1.28571V3.21429H1.28571V1.28571H16.7143ZM16.7143 11.5714H1.28571V4.5H16.7143V11.5714ZM15.4286 9.64286C15.4286 9.81335 15.3608 9.97687 15.2403 10.0974C15.1197 10.218 14.9562 10.2857 14.7857 10.2857H12.2143C12.0438 10.2857 11.8803 10.218 11.7597 10.0974C11.6392 9.97687 11.5714 9.81335 11.5714 9.64286C11.5714 9.47236 11.6392 9.30885 11.7597 9.18829C11.8803 9.06773 12.0438 9 12.2143 9H14.7857C14.9562 9 15.1197 9.06773 15.2403 9.18829C15.3608 9.30885 15.4286 9.47236 15.4286 9.64286ZM10.2857 9.64286C10.2857 9.81335 10.218 9.97687 10.0974 10.0974C9.97687 10.218 9.81335 10.2857 9.64286 10.2857H8.35714C8.18665 10.2857 8.02313 10.218 7.90257 10.0974C7.78202 9.97687 7.71429 9.81335 7.71429 9.64286C7.71429 9.47236 7.78202 9.30885 7.90257 9.18829C8.02313 9.06773 8.18665 9 8.35714 9H9.64286C9.81335 9 9.97687 9.06773 10.0974 9.18829C10.218 9.30885 10.2857 9.47236 10.2857 9.64286Z" fill="currentColor"/>
+                    </g>
+                    <defs>
+                      <clipPath id="clip0_3603_58">
+                        <rect width="18" height="12.8571" fill="white"/>
+                      </clipPath>
+                    </defs>
+                  </svg>
+                  <span>Cards</span>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="nav_link">
+                  <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <g clip-path="url(#clip0_3603_60)">
+                      <path d="M17.3077 14.5385H16.6154V0.692308C16.6154 0.508696 16.5424 0.332605 16.4126 0.202772C16.2828 0.0729395 16.1067 0 15.9231 0H11.0769C10.8933 0 10.7172 0.0729395 10.5874 0.202772C10.4576 0.332605 10.3846 0.508696 10.3846 0.692308V4.15385H6.23077C6.04716 4.15385 5.87107 4.22679 5.74123 4.35662C5.6114 4.48645 5.53846 4.66254 5.53846 4.84615V8.30769H2.07692C1.89331 8.30769 1.71722 8.38063 1.58739 8.51046C1.45755 8.6403 1.38462 8.81639 1.38462 9V14.5385H0.692308C0.508696 14.5385 0.332605 14.6114 0.202772 14.7412C0.0729393 14.8711 0 15.0472 0 15.2308C0 15.4144 0.0729393 15.5905 0.202772 15.7203C0.332605 15.8501 0.508696 15.9231 0.692308 15.9231H17.3077C17.4913 15.9231 17.6674 15.8501 17.7972 15.7203C17.9271 15.5905 18 15.4144 18 15.2308C18 15.0472 17.9271 14.8711 17.7972 14.7412C17.6674 14.6114 17.4913 14.5385 17.3077 14.5385ZM11.7692 1.38462H15.2308V14.5385H11.7692V1.38462ZM6.92308 5.53846H10.3846V14.5385H6.92308V5.53846ZM2.76923 9.69231H5.53846V14.5385H2.76923V9.69231Z" fill="currentColor"/>
+                    </g>
+                      <defs>
+                      <clipPath id="clip0_3603_60">
+                        <rect width="18" height="15.9231" fill="white"/>
+                      </clipPath>
+                    </defs>
+                  </svg>
+                  <span>Reports</span> 
+                </a>
+              </li>
+            </ul>
+          </div>
           
   
           <!-- Bottom Section -->
@@ -92,7 +93,11 @@
           </div>
         </div>
         <div class="mainbody">
+          <div v-if="userFullName" class="user-full-name">
+            <h2>Welcome back, {{ userFullName }}!</h2>
+          </div>
             <div class="welcome">
+              
                 <h2>Cards</h2>
                 <input type="search" name="find" id="searchbar" placeholder="Type a serach">
 
@@ -112,39 +117,37 @@
                   </svg>
                   <span>Add a new card</span>
                 </button>
+                <button @click="handleSignOut" class="logout"><img src="../assets/exit.svg" width="100%" alt=""></button>
             </div>
+            
             <div class="tabs-menu">
-              <a href="#"><span>All cards</span> </a>
+              <a href="#" class="selected"><span>All cards</span> </a>
               <a href="#"><span>Virtual</span> </a>
               <a href="#"><span>Credit</span></a>
             </div>
             <div class="someanalytics">
-                <div class="analyticcard">
+                <div class="analyticcard selectedcard">
                   <div class="card-top">
                     <img src="../assets/visa.svg" alt="">
                   </div>
-                    <h3>89,935</h3>
                     <span><b>Template </b>Premium Card</span>
                 </div>
                 <div class="analyticcard">
                   <div class="card-top">
                     <img src="../assets/visa.svg" alt="">
                   </div>
-                    <h3>89,935</h3>
                     <span><b>Template </b>Premium Card</span>
                 </div>
                 <div class="analyticcard">
                   <div class="card-top">
                     <img src="../assets/visa.svg" alt="">
                   </div>
-                    <h3>89,935</h3>
                     <span><b>Template </b>Premium Card</span>
                 </div>
                 <div class="analyticcard">
                   <div class="card-top">
                     <img src="../assets/visa.svg" alt="">
                   </div>
-                    <h3>89,935</h3>
                     <span><b>Template </b>Premium Card</span>
                 </div>
             </div>
@@ -193,7 +196,7 @@
                 </div>
                 <div class="box2a">
                   <p>Recent</p>
-                  <div class="recenttransactionbox">
+                  <div class="">
                     <div 
                       v-if="isLoading" 
                       class="loading-container">
@@ -204,209 +207,117 @@
                       class="error-container">
                       {{ error }}
                     </div>
-                    <div 
-                      v-else 
-                      class="transactions-container">
-                      <div
-                        v-for="(transaction, index) in displayedTransactions"
-                        :key="index"
-                        class="transactiondetailscontainer"
-                      >
-                        <div class="icon-container">
-                          <img src="../assets/blackarrows.svg" alt="">
-                        </div>
-                        <div v-for="(transaction, index) in displayedTransactions" :key="index" class="transactiondetailscontainer">
-                          <div class="transactiondetailswords">
-                            <span>Buy online at {{ transaction.Merchant || "Unknown" }}</span>
-                            <span class="lowkey">{{ formatDate(transaction["Transaction"]) }}</span>
-                          </div>
-                          <div class="transactiondetailsamount">
-                            $8,534.00
-                          </div>
-                        </div>
-                      </div>
-                    </div>    
-                  </div>
-                  <div class="recenttransactionbox">
-                    <div class="icon-container">
-                      <img src="../assets/blackarrows.svg" alt="">
-                    </div>
-                    <div class="transactiondetailscontainer">
-                      <div class="transactiondetailswords">
-                        <span>Buy online at Walmart</span>
-                        <span class="lowkey">29 June 2:15 PM</span>
-                      </div>
-                      <div class="transactiondetailsamount">
-                        $8,534.00
-                      </div>
-                    </div>
-                  </div>
-                  <div class="recenttransactionbox">
-                    <div class="icon-container">
-                      <img src="../assets/blackarrows.svg" alt="">
-                    </div>
-                    <div class="transactiondetailscontainer">
-                      <div class="transactiondetailswords">
-                        <span>Buy online at Walmart</span>
-                        <span class="lowkey">29 June 2:15 PM</span>
-                      </div>
-                      <div class="transactiondetailsamount">
-                        $8,534.00
-                      </div>
-                    </div>
+                    <div v-else>
+                      <transaction-item 
+                        v-for="(transaction, index) in displayedTransactions" 
+                        :key="index" 
+                        :transaction="transaction">
+                      </transaction-item>
+                      
+                    </div>   
                   </div>
                 </div>
-                <div class="box2a">
-                  <p>Last 7 Days</p>
-                  <div class="recenttransactionbox">
-                    <div class="icon-container">
-                      <img src="../assets/blackarrows.svg" alt="">
-                    </div>
-                    <div class="transactiondetailscontainer">
-                      <div class="transactiondetailswords">
-                        <span>Buy online at Walmart</span>
-                        <span class="lowkey">29 June 2:15 PM</span>
-                      </div>
-                      <div class="transactiondetailsamount">
-                        $8,534.00
-                      </div>
-                    </div>
-                  </div>
-                  <div class="recenttransactionbox">
-                    <div class="icon-container">
-                      <img src="../assets/blackarrows.svg" alt="">
-                    </div>
-                    <div class="transactiondetailscontainer">
-                      <div class="transactiondetailswords">
-                        <span>Buy online at Walmart</span>
-                        <span class="lowkey">29 June 2:15 PM</span>
-                      </div>
-                      <div class="transactiondetailsamount">
-                        $8,534.00
-                      </div>
-                    </div>
-                  </div>
-                  <div class="recenttransactionbox">
-                    <div class="icon-container">
-                      <img src="../assets/blackarrows.svg" alt="">
-                    </div>
-                    <div class="transactiondetailscontainer">
-                      <div class="transactiondetailswords">
-                        <span>Buy online at Walmart</span>
-                        <span class="lowkey">29 June 2:15 PM</span>
-                      </div>
-                      <div class="transactiondetailsamount">
-                        $8,534.00
-                      </div>
-                    </div>
-                  </div>
-                </div>
+
+                  
+                  
+                
+                
               </div>
             </div>
-            <div class="mainchart">
-                <div class="chart1">
-                    <h3>Analytics</h3>
-                    <canvas id="analyticsChart"></canvas>
-                </div>
-                <div class="chart2">
-                    <h3>2nd Chart</h3>
-                    <canvas id="secondaryChart"></canvas>
-                    
-                </div>
-            </div>
+            
             <div class="restofbody"></div>
         </div>
     </div>
   </template>
   
+
   <script>
+import TransactionItem from './TransactionItem.vue';
 import { Chart, registerables } from "chart.js";
+import dayjs from "dayjs";
+import { getAuth, onAuthStateChanged, signOut } from 'firebase/auth';
+import { useRouter } from 'vue-router';
 
 export default {
   name: "DashBoard",
+  setup() {
+    const router = useRouter();
+    const auth = getAuth();
+    const emailToUserIdMap = {
+      "userone@app.com": "USER__001",
+      "usertwo@app.com": "USER__002",
+      "userthree@app.com": "USER__003",
+      "userfour@app.com": "USER__004",
+      "userfive@app.com": "USER__005",
+      "usersix@app.com": "USER__006",
+      "userseven@app.com": "USER__007",
+      "usereight@app.com": "USER__008",
+      "usernine@app.com": "USER__009",
+      "userten@app.com": "USER__010",
+      "usereleven@app.com": "USER__011",
+      "usertwelve@app.com": "USER__012",
+      "userthirteen@app.com": "USER__013",
+      "userfourteen@app.com": "USER__014",
+      "userfifteen@app.com": "USER__015",
+      "usersixteen@app.com": "USER__016",
+      "userseventeen@app.com": "USER__017",
+      "usereighteen@app.com": "USER__018",
+      "usernineteen@app.com": "USER__019",
+      "usertwenty@app.com": "USER__020",
+        };
+
+    // Sign out method
+    const handleSignOut = () => {
+      signOut(auth).then(() => {
+        router.push('/').then(() => {
+          window.location.reload();
+        });
+      });
+    };
+
+    return {
+      handleSignOut,
+      emailToUserIdMap, // Return the mapping to use in mounted hook
+    };
+  },
   props: {
     msg: String,
+  },
+  components: {
+    TransactionItem, // Register reusable transaction component
   },
   data() {
     return {
       transactions: [], // Holds all fetched transactions
-      displayedTransactions: [], // Transactions to display in the UI
+      userFullName: null,
       isLoading: true, // Tracks loading state
       error: null, // Tracks errors
-      userId: "USER__001", // Replace with the actual user ID
-      limit: 3, // Number of recent transactions to fetch
+      userId: null, // Initialize with null
+      limit: 6, // Number of recent transactions to fetch
     };
   },
-  methods: {
-    // Initialize charts
-    initializeCharts() {
-      Chart.register(...registerables);
-
-      // First Chart: Analytics
-      const ctx1 = document.getElementById("analyticsChart").getContext("2d");
-      new Chart(ctx1, {
-        type: "line",
-        data: {
-          labels: ["January", "February", "March", "April", "May", "June"],
-          datasets: [
-            {
-              label: "User Growth",
-              data: [12, 19, 3, 5, 2, 3],
-              borderColor: "#42b983",
-              tension: 0.4,
-            },
-          ],
-        },
-        options: {
-          responsive: true,
-          plugins: {
-            legend: {
-              position: "top",
-            },
-            tooltip: {
-              enabled: true,
-            },
-          },
-        },
-      });
-
-      // Second Chart: Category Count
-      const ctx2 = document.getElementById("secondaryChart").getContext("2d");
-      new Chart(ctx2, {
-        type: "bar",
-        data: {
-          labels: ["A", "B", "C", "D", "E"],
-          datasets: [
-            {
-              label: "Category Count",
-              data: [5, 10, 15, 20, 25],
-              backgroundColor: "#0F123F",
-            },
-          ],
-        },
-        options: {
-          responsive: true,
-          plugins: {
-            legend: {
-              position: "top",
-            },
-          },
-        },
-      });
+  computed: {
+    displayedTransactions() {
+      return this.transactions.slice(0, this.limit);
     },
-
-    // Fetch transactions
-    async fetchTransactions() {
+  },
+  methods: {
+    // Fetch transactions based on the userId
+    async fetchTransactions(userId) {
       const baseUrl = "https://banktransactions.onrender.com"; // Replace with your deployed API URL
       try {
+        this.isLoading = true;
         const response = await fetch(
-          `${baseUrl}/api/user/${this.userId}/recent_transactions?limit=${this.limit}`
+          `${baseUrl}/api/user/${userId}/recent_transactions?limit=${this.limit}`
         );
         if (!response.ok) {
           throw new Error("Failed to fetch recent transactions");
         }
-        this.transactions = await response.json();
-        this.displayedTransactions = this.transactions.slice(0, this.limit); // Display the top `limit` transactions
+        const transactions = await response.json();
+        this.transactions = transactions;
+        if(transactions.length > 0){
+          this.userFullName = transactions[0]["Full Name"]
+        }
         this.isLoading = false;
       } catch (err) {
         this.error = err.message;
@@ -416,8 +327,7 @@ export default {
 
     // Format date to a readable format
     formatDate(dateString) {
-      const date = new Date(dateString);
-      return date.toLocaleString(); // Format date to a readable format
+      return dayjs(dateString).format("MMMM D, YYYY"); // Example: "January 12, 2025"
     },
 
     // Update the displayed transaction by index
@@ -426,13 +336,41 @@ export default {
         this.displayedTransactions = [this.transactions[index]];
       }
     },
+
+    // Increase the limit for fetching transactions
+    increaseLimit() {
+      this.limit += 15;
+      this.fetchTransactions(this.userId); // Fetch again with new limit
+    },
+
+    // Initialize charts
+    initializeCharts() {
+      Chart.register(...registerables);
+    },
   },
   mounted() {
-    this.fetchTransactions(); // Fetch transactions when the component is mounted
+    console.log('Dashboard Component Mounted!');
+    const auth = getAuth();
+    onAuthStateChanged(auth, (user) => {
+      if (user) {
+        const userEmail = user.email;
+        console.log("Logged-in user email:", userEmail);
+
+        // Map email to userId
+        this.userId = this.emailToUserIdMap[userEmail] || "DEFAULT_USER_ID";
+        console.log("Mapped User ID:", this.userId);
+
+        // Fetch transactions
+        this.fetchTransactions(this.userId); // Pass userId to fetch transactions
+      } else {
+        console.log("No user is logged in.");
+      }
+    });
     this.initializeCharts(); // Initialize charts when the component is mounted
   },
 };
 </script>
+
 
   
   <style scoped>
@@ -451,7 +389,7 @@ export default {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    padding: 20px;
+    padding: 15px 30px 10px 10px  ;
     box-sizing: border-box;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
@@ -483,6 +421,7 @@ export default {
   /* Middle Section */
   .middle {
     flex: 2;
+    margin-bottom: 40px;
   }
   
   .middle ul {
@@ -496,6 +435,14 @@ export default {
     height: 50px;
   }
 
+
+  .selectedsidebar{
+    background-color: #c5e86c;
+    border-radius: 10px;
+
+
+  }
+
   .nav_link{
     color: white;
     text-decoration: none;
@@ -504,8 +451,17 @@ export default {
     transition: color 0.3s ease;
     display: flex;
     gap: 15px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+  
   }
   
+  .bottom .nav_link{
+    align-items: end;
+  }
   .middle a {
     
   }
@@ -521,6 +477,7 @@ export default {
     flex-direction: column;
     align-items: center;
     justify-content: flex-end;
+    padding: 0 15px;
   }
   
   .bottom p {
@@ -546,9 +503,14 @@ export default {
 
   }
 
+  .user-full-name{
+    margin-bottom: 0px;
+    padding: 0;
+  }
+
   .welcome{
     margin: 0 28px;
-    padding: 30px 30px 60px 30px;
+    padding: 0px 30px 60px 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -580,6 +542,14 @@ export default {
 
   }
 
+  .logout{
+    position: relative;
+    width: 100%;
+    max-width: 50px;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
   .top-link{
     width: 45px;
     height: 45px;
@@ -589,6 +559,11 @@ export default {
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+
+  .selected{
+    color: #000000 !important;
+    border-bottom: solid 2px #183028;
   }
   .someanalytics{
     display: flex;
@@ -604,12 +579,16 @@ export default {
     color: #00160d;
     background-color: #e6e8e7;
     border: solid 1px #e6edff;
-    width: 215px;
+    width: 205px;
     min-height: 215px;
     padding: 20px;
     border-radius: 12px;
-    margin: 0 24px;
+    margin: 0 20px;
     justify-content: space-between;
+  }
+
+  .selectedcard{
+    background-color: #c5e86c;
   }
 
   .tabs-menu{
@@ -730,12 +709,15 @@ export default {
 
   .table1{
     position: relative;
-    width: 100%;
+    width: 90%;
     border-radius: 10px;
     border: solid 1px #e6e8e7;
   }
   .table2{
-    width: 100%;
+    width: 90%;
+    border-radius: 10px;
+    border: solid 1px #e6e8e7;
+    padding-bottom: 20px;
   }
 
   .box{
@@ -800,5 +782,23 @@ export default {
     width: 100%;
     height: 100%;
   }
+
+  .view-more-button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px 20px;
+  background-color: #c5e86c;
+  color: #183028;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.view-more-button:hover {
+  background-color: #a9d65b;
+}
+
   </style>
   

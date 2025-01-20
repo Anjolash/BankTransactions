@@ -1,8 +1,12 @@
 from flask import Flask, jsonify, request
 import pandas as pd
 import numpy as np
+from flask_cors import CORS  # Import CORS
 
 app = Flask(__name__)
+
+# Enable CORS for all routes
+CORS(app)
 
 # Load the merged dataset
 MERGED_CSV_FILE = "merged_transactions_with_fullnames.csv"
@@ -61,7 +65,6 @@ def get_recent_transactions(user_id):
     # Get the top 'n' transactions
     recent_transactions = user_data.head(limit).to_dict(orient="records")
     return jsonify(recent_transactions)
-
 
 # Run the Flask app
 if __name__ == "__main__":
