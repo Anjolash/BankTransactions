@@ -26,10 +26,32 @@ This project is a **dashboard application** that displays recent bank transactio
 
 - **Frontend Website**: [Bank Transactions Dashboard](https://anjolash.github.io/BankTransactions/)  
 - **API**: [Bank Transactions API](https://banktransactions.onrender.com)  
+  
+You can test the site using the following login credentials:
 
-You can test the site using the following login credentials:  
-- **Emails**: `userone@app.com` to `usertwenty@app.com`  
-- **Password**: `12345678`  
+| **Email**              | **Password** |
+|-------------------------|--------------|
+| userone@app.com         | 12345678     |
+| usertwo@app.com         | 12345678     |
+| userthree@app.com       | 12345678     |
+| userfour@app.com        | 12345678     |
+| userfive@app.com        | 12345678     |
+| usersix@app.com         | 12345678     |
+| userseven@app.com       | 12345678     |
+| usereight@app.com       | 12345678     |
+| usernine@app.com        | 12345678     |
+| userten@app.com         | 12345678     |
+| usereleven@app.com      | 12345678     |
+| usertwelve@app.com      | 12345678     |
+| userthirteen@app.com    | 12345678     |
+| userfourteen@app.com    | 12345678     |
+| userfifteen@app.com     | 12345678     |
+| usersixteen@app.com     | 12345678     |
+| userseventeen@app.com   | 12345678     |
+| usereighteen@app.com    | 12345678     |
+| usernineteen@app.com    | 12345678     |
+| usertwenty@app.com      | 12345678     |
+`  
 
 ## Project Workflow  
 
