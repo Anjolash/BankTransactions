@@ -1,5 +1,4 @@
-```
-markdown
+```markdown
 # Bank Transaction Dashboard  
 
 ## Overview  
@@ -115,8 +114,7 @@ To secure the dashboard, we implemented a login system using **Firebase Authenti
 1. **Clone the Repository**:  
    ```bash  
    git clone https://github.com/<your-username>/<your-repo-name>.git  
-   cd <your-repo-name> 
-   ``` 
+   cd <your-repo-name>  
    ```  
 
 2. **Set Up Backend**:  
