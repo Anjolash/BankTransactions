@@ -269,7 +269,7 @@ export default {
     // Sign out method
     const handleSignOut = () => {
       signOut(auth).then(() => {
-        router.push('/').then(() => {
+        router.push('/BankTransactions/').then(() => {
           window.location.reload();
         });
       });

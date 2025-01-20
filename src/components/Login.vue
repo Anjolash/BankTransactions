@@ -41,7 +41,7 @@
             console.log("Succesfully signed in!");
 
             console.log(auth.currentUser);
-            router.push('/#/dashboard').then(() => {
+            router.push('#/dashboard').then(() => {
               window.location.reload();
             });
 
