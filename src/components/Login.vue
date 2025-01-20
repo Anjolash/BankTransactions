@@ -5,15 +5,17 @@
         <form @submit.prevent="register">
           <div class="form-group">
             <label for="username">Username</label>
-            <input type="text" id="username" v-model="username" required />
+            <input type="text" id="username" placeholder="userone@app.com" v-model="username" required />
           </div>
           <div class="form-group">
             <label for="password">Password</label>
-            <input type="password" id="password" v-model="password" required />
+            <input type="password" id="password" placeholder="12345678" v-model="password" required />
           </div>
           <p v-if="errMsg">{{ errMsg }}</p>
+          
           <button type="submit">Login</button>
         </form>
+        <span class="side-message">You can access by getting sample login credentials from README file here <a target="_blank" href="https://github.com/Anjolash/BankTransactions/blob/main/README.md">https://github.com/Anjolash/BankTransactions/blob/main/README.md</a> or fill in with placeholder</span>
       </div>
     </div>
   </template>
@@ -132,6 +134,13 @@
   }
   button:hover {
     background-color: #0056b3;
+  }
+
+  .side-message{
+    font-size: 8px;
+    color: rgba(178, 157, 157, 0.684);
+    flex-wrap: wrap;
+    width: 100%;
   }
   </style>
   
